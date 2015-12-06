@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -50 Y: -66
+
+.WRITER_INFO
+ Name: SONTI RAJESH
+ WriterId: 82
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: guntur
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+2442 8416 0
+2445 8414 0
+2449 8412 0
+2454 8410 0
+2462 8409 0
+2473 8410 0
+2486 8413 0
+2498 8417 0
+2508 8423 0
+2516 8432 0
+2521 8443 0
+2523 8456 0
+2521 8468 0
+2517 8481 0
+2509 8494 0
+2498 8507 0
+2483 8517 0
+2468 8525 0
+2447 8531 0
+2429 8534 0
+2416 8533 0
+2405 8528 0
+2395 8522 0
+2387 8516 0
+2383 8508 0
+2384 8500 0
+.PEN_UP

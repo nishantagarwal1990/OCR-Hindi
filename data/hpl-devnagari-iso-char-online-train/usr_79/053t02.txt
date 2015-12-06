@@ -1,0 +1,55 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -19 Y: -113
+
+.WRITER_INFO
+ Name: SAI PRASHANT
+ WriterId: 79
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bheemavaram
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+5487 8493 0
+5485 8490 0
+5482 8488 0
+5478 8487 0
+5471 8487 0
+5462 8491 0
+5449 8499 0
+5434 8510 0
+5418 8523 0
+5403 8537 0
+5393 8550 0
+5387 8561 0
+5385 8571 0
+5387 8579 0
+5393 8586 0
+5404 8591 0
+5420 8593 0
+5442 8592 0
+5466 8582 0
+5488 8578 0
+.PEN_UP

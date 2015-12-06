@@ -1,0 +1,53 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 3 Y: -134
+
+.WRITER_INFO
+ Name: MANEESH
+ WriterId: 75
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: jhadkhand
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+5525 8486 0
+5522 8486 0
+5513 8489 0
+5500 8494 0
+5487 8500 0
+5474 8508 0
+5464 8517 0
+5457 8526 0
+5455 8534 0
+5457 8541 0
+5465 8548 0
+5479 8555 0
+5497 8560 0
+5519 8561 0
+5545 8561 0
+5572 8560 0
+5599 8558 0
+5625 8554 0
+.PEN_UP

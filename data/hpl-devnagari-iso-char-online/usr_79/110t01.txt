@@ -1,0 +1,68 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -28 Y: -117
+
+.WRITER_INFO
+ Name: SAI PRASHANT
+ WriterId: 79
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bheemavaram
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+891 8235 0
+890 8232 0
+893 8229 0
+.PEN_UP
+.PEN_DOWN
+880 8246 0
+881 8242 0
+882 8239 0
+884 8236 0
+888 8233 0
+892 8230 0
+898 8227 0
+906 8223 0
+915 8220 0
+925 8217 0
+936 8215 0
+945 8214 0
+954 8214 0
+961 8216 0
+965 8219 0
+969 8224 0
+972 8230 0
+974 8239 0
+976 8250 0
+977 8261 0
+979 8273 0
+980 8284 0
+980 8293 0
+980 8300 0
+980 8304 0
+981 8307 0
+982 8304 0
+984 8297 0
+.PEN_UP

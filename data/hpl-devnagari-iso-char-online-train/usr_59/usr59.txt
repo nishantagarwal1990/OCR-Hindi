@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = CHINMAYA SHAH
+WriterId = 59
+Age = 22
+Gender = MALE
+Hand = RIGHT
+Region = DELHI
+Date = 2007-6-25
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = ONCE A MONTH
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = TRUE

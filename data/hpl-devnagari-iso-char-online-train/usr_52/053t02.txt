@@ -1,0 +1,60 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 73 Y: -131
+
+.WRITER_INFO
+ Name: SHASHANK
+ WriterId: 52
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+5474 8495 0
+5470 8490 0
+5465 8486 0
+5459 8481 0
+5453 8476 0
+5447 8472 0
+5439 8468 0
+5431 8465 0
+5422 8462 0
+5414 8462 0
+5403 8464 0
+5392 8469 0
+5381 8480 0
+5367 8493 0
+5354 8507 0
+5344 8521 0
+5339 8533 0
+5342 8543 0
+5349 8550 0
+5363 8555 0
+5388 8558 0
+5419 8559 0
+5453 8559 0
+5483 8551 0
+5504 8552 0
+.PEN_UP

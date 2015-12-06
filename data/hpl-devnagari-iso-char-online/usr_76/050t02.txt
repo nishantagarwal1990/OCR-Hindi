@@ -1,0 +1,76 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "50"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 22 Y: -119
+
+.WRITER_INFO
+ Name: CHAKRAVARTHY
+ WriterId: 76
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+754 8193 0
+754 8196 0
+755 8200 0
+755 8204 0
+755 8208 0
+755 8212 0
+754 8217 0
+754 8221 0
+753 8224 0
+753 8227 0
+753 8224 0
+752 8217 0
+752 8208 0
+752 8196 0
+751 8179 0
+750 8157 0
+751 8133 0
+753 8112 0
+757 8096 0
+761 8084 0
+765 8076 0
+769 8072 0
+773 8070 0
+777 8072 0
+781 8079 0
+785 8093 0
+788 8113 0
+791 8141 0
+795 8177 0
+798 8215 0
+801 8251 0
+805 8283 0
+808 8313 0
+811 8342 0
+814 8368 0
+817 8393 0
+819 8412 0
+820 8425 0
+821 8433 0
+822 8437 0
+825 8436 0
+.PEN_UP

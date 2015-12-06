@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "52"
+.H_LINE 7874 8750
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -100 Y: -126
+
+.WRITER_INFO
+ Name: ARUN R
+ WriterId: 4
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: madurai
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-6
+ WritingInProfession: no
+
+.PEN_DOWN
+3952 8434 0
+3950 8438 0
+3948 8444 0
+3944 8451 0
+3939 8459 0
+3933 8467 0
+3926 8474 0
+3915 8480 0
+3904 8482 0
+3895 8479 0
+3890 8472 0
+3887 8463 0
+3888 8454 0
+3893 8446 0
+3901 8439 0
+3912 8435 0
+3929 8434 0
+3952 8434 0
+3982 8436 0
+4016 8439 0
+4049 8443 0
+4077 8447 0
+4096 8451 0
+4108 8453 0
+4114 8455 0
+4114 8455 0
+.PEN_UP

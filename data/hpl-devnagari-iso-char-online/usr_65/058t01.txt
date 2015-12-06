@@ -1,0 +1,63 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 16 Y: -125
+
+.WRITER_INFO
+ Name: SHREYAS
+ WriterId: 65
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+5266 9761 0
+5265 9752 0
+5263 9745 0
+5261 9739 0
+5260 9735 0
+5259 9732 0
+5256 9730 0
+5253 9730 0
+5249 9734 0
+5243 9739 0
+5236 9745 0
+5233 9751 0
+5231 9756 0
+5230 9760 0
+5231 9763 0
+5234 9766 0
+5238 9767 0
+5242 9767 0
+5247 9766 0
+5252 9766 0
+5258 9763 0
+5262 9760 0
+5264 9757 0
+5265 9754 0
+5264 9751 0
+5263 9748 0
+5260 9746 0
+5254 9746 0
+.PEN_UP

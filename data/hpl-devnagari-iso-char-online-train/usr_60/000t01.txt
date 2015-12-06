@@ -1,0 +1,72 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 6 Y: -162
+
+.WRITER_INFO
+ Name: GANESH
+ WriterId: 60
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mahbubnagar
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-25
+ WritingInProfession: no
+
+.PEN_DOWN
+768 1786 0
+766 1783 0
+763 1781 0
+768 1783 0
+774 1786 0
+781 1789 0
+789 1792 0
+798 1795 0
+811 1797 0
+825 1799 0
+839 1802 0
+854 1805 0
+868 1807 0
+881 1810 0
+894 1812 0
+905 1814 0
+914 1816 0
+921 1817 0
+928 1818 0
+936 1819 0
+945 1820 0
+957 1821 0
+972 1823 0
+986 1824 0
+998 1825 0
+1008 1827 0
+1018 1829 0
+1025 1830 0
+1032 1830 0
+1038 1831 0
+1044 1832 0
+1050 1832 0
+1057 1833 0
+1063 1833 0
+1067 1833 0
+1070 1833 0
+1065 1830 0
+.PEN_UP

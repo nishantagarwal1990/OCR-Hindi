@@ -1,0 +1,50 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "86"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -22 Y: -129
+
+.WRITER_INFO
+ Name: SAI GUNARANJAN
+ WriterId: 104
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: kerala
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-9-20
+ WritingInProfession: no
+
+.PEN_DOWN
+2532 9814 0
+2533 9811 0
+2534 9808 0
+2533 9805 0
+2534 9802 0
+2535 9799 0
+2540 9792 0
+2545 9786 0
+2551 9780 0
+2559 9773 0
+2567 9768 0
+2574 9764 0
+2582 9761 0
+2589 9759 0
+2599 9759 0
+.PEN_UP

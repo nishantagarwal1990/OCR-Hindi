@@ -1,0 +1,42 @@
+\documentclass[11pt,twocolumn]{scrartcl}
+
+\usepackage[letterpaper]{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage[utf8x]{inputenc}
+\usepackage{url}
+\newcommand{\reals}{{\mathbb R}}
+
+\title{OCR of Devanagiri Characters }
+\subtitle{Interim report for CS 6350}
+\author{Yogesh Mishra \and Nishant Agarwal}
+\date{}
+
+\begin{document}
+\maketitle
+\section{Current State}
+\label{sec:Current State}
+The problem we are trying to solve is OCR (Optical Character Recognition) of Devanagiri Characters.  Devanagiri script contains 13 vowels and 36 consonants in its character set. The script is quite complex such that basic characters can couple to form modified characters, hence we will be classifying and recognizing the basic characters itself.We found a ready made dataset for Devanagiri characters from HP labs\cite{Data}. The dataset is divided into training and test sets. Each character is already segmented into separated images. The image format is TIFF(Tagged Image File Format). Our training set contains handwritten samples of the 49 characters from 87 users. Each user has given two sample of each character. Similarly our test set contains handwritten samples of each character from 19 users. Each user has given a single sample for each character.\\
+We searched extensively and read many papers published on OCR. In our search to understand an approach to the problem we came across \cite{arora2008combining}\cite{bhattacharjee2010performance}\cite{birajdar2015recognition}\cite{dongre2013devnagari}\cite{goyal2010optical}\cite{Neural}.Here we learned that our work needs a mixture of image processing and computer vision to process the image and extract features for classification. The steps for OCR are:
+\begin{itemize}
+\item[a.] Pre-processing of image: This step requires skew detection and correction, noise removal, etc. to get a clean data to work on.
+\item[b.] Segmentation: In this step characters are extracted from words and the image is normalized.
+\item[c.] Feature extraction: In this step computer vision algorithms are applied to get feature vectors so that we can classify the characters.
+\item[d.] Classification and Recognition: In this step we train the classifier and then recognize the characters from the test set.
+
+As our data is already segmented and filtered we have normalized all the images to a fixed size of 32X32 pixels using OpenCV\cite{OpenCV}. This will vary based on future experiments. For feature extraction we have found that methods like shadow detection, Code chain histograms of character contours, histograms of oriented gradients, intersection/junctions in a character,etc. are  used. We have yet to decide on the feature extraction method we will use. Based on \cite{arora2008combining}\cite{bhattacharjee2010performance}\cite{birajdar2015recognition}\cite{dongre2013devnagari}\cite{goyal2010optical}\cite{Neural} we have found that SVM(Support Vector Machines) give a better accuracy than other classifiers like Naive Bayes, kNN, Ada Boost. 
+\end{itemize}
+\section{Plan}
+\label{sec:plan}
+ Our future plan of action is as follows:
+ \begin{itemize}
+ \item[a.]We will decide and implement a feature extraction method.
+ \item[b.]We will implement SVM and kNN to perform a comparison between the classifiers. 
+ \item[c.]If time permits we will perform a comparison using neural networks, Ada Boost and Naive Bayes.
+ \item[d.] If time permits we will try implementing multiple feature extraction methods and perform classifications.
+ \end{itemize}
+
+\bibliographystyle{plain}
+\bibliography{refs}
+\end{document}

@@ -1,0 +1,64 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -42 Y: -101
+
+.WRITER_INFO
+ Name: S GANESH
+ WriterId: 85
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+2450 8321 0
+2450 8324 0
+2449 8327 0
+2447 8330 0
+2444 8333 0
+2441 8335 0
+2437 8336 0
+2433 8336 0
+2430 8335 0
+2426 8333 0
+2422 8331 0
+2420 8328 0
+2420 8325 0
+2421 8322 0
+2425 8318 0
+2432 8315 0
+2441 8314 0
+2451 8317 0
+2461 8324 0
+2469 8336 0
+2476 8352 0
+2479 8371 0
+2478 8390 0
+2473 8407 0
+2466 8420 0
+2455 8433 0
+2444 8442 0
+2434 8446 0
+2426 8448 0
+.PEN_UP

@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = SHASHANK
+WriterId = 52
+Age = 20
+Gender = MALE
+Hand = RIGHT
+Region = MUMBAI
+Date = 2007-6-22
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = ONCE A WEEK
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = TRUE

@@ -1,0 +1,72 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -49 Y: -67
+
+.WRITER_INFO
+ Name: SRIVATSA PRAKASH
+ WriterId: 25
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bangalore
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+968 1632 0
+969 1636 0
+971 1641 0
+975 1647 0
+979 1652 0
+985 1659 0
+992 1665 0
+998 1670 0
+1005 1674 0
+1015 1677 0
+1027 1677 0
+1041 1673 0
+1056 1667 0
+1071 1658 0
+1085 1650 0
+1094 1643 0
+1100 1635 0
+1102 1629 0
+1100 1624 0
+1098 1621 0
+.PEN_UP
+.PEN_DOWN
+1024 1605 0
+1021 1605 0
+1017 1607 0
+1014 1610 0
+1012 1614 0
+1011 1617 0
+1011 1621 0
+1013 1625 0
+1016 1627 0
+1019 1629 0
+1022 1628 0
+1025 1626 0
+1027 1623 0
+1027 1620 0
+1027 1620 0
+.PEN_UP

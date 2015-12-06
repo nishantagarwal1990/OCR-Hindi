@@ -1,0 +1,72 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -87 Y: 19
+
+.WRITER_INFO
+ Name: S GANESH
+ WriterId: 85
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+933 1666 0
+932 1670 0
+934 1676 0
+937 1683 0
+942 1691 0
+949 1698 0
+957 1704 0
+966 1708 0
+976 1710 0
+988 1709 0
+1004 1705 0
+1022 1698 0
+1038 1690 0
+1053 1681 0
+1064 1672 0
+1071 1664 0
+1077 1656 0
+1080 1651 0
+.PEN_UP
+.PEN_DOWN
+992 1628 0
+991 1625 0
+996 1627 0
+1001 1630 0
+1004 1633 0
+1005 1637 0
+1004 1642 0
+1001 1646 0
+998 1648 0
+994 1648 0
+991 1646 0
+988 1642 0
+986 1637 0
+985 1632 0
+986 1627 0
+988 1624 0
+991 1621 0
+.PEN_UP

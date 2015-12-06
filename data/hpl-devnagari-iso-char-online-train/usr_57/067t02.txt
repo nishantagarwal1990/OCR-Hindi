@@ -1,0 +1,67 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "67"
+.H_LINE 2999 3874
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -29 Y: 61
+
+.WRITER_INFO
+ Name: SAI KISHORE
+ WriterId: 57
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-23
+ WritingInProfession: no
+
+.PEN_DOWN
+3864 3418 0
+3864 3415 0
+3868 3418 0
+3875 3426 0
+3884 3439 0
+3897 3456 0
+3909 3476 0
+3917 3497 0
+3921 3517 0
+3920 3533 0
+3912 3547 0
+3895 3556 0
+3868 3561 0
+3834 3561 0
+3803 3557 0
+3776 3551 0
+3757 3547 0
+3744 3544 0
+3738 3542 0
+3747 3540 0
+.PEN_UP
+.PEN_DOWN
+3743 3409 0
+3755 3412 0
+3775 3413 0
+3809 3414 0
+3851 3413 0
+3890 3412 0
+3920 3411 0
+3940 3410 0
+3952 3410 0
+3958 3410 0
+.PEN_UP

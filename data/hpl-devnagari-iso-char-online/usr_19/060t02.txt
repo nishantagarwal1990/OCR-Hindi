@@ -1,0 +1,68 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -63 Y: -61
+
+.WRITER_INFO
+ Name: PURANAM SAI GUNARANJAN
+ WriterId: 19
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-12
+ WritingInProfession: no
+
+.PEN_DOWN
+923 1582 0
+920 1579 0
+918 1584 0
+918 1592 0
+920 1602 0
+924 1612 0
+929 1623 0
+934 1634 0
+939 1645 0
+944 1654 0
+949 1660 0
+954 1663 0
+961 1662 0
+971 1656 0
+980 1649 0
+990 1638 0
+999 1628 0
+1009 1615 0
+1017 1605 0
+1022 1596 0
+1024 1590 0
+1024 1586 0
+1021 1585 0
+1015 1587 0
+.PEN_UP
+.PEN_DOWN
+958 1598 0
+958 1601 0
+958 1604 0
+958 1607 0
+958 1604 0
+958 1600 0
+960 1596 0
+.PEN_UP

@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 40 Y: -318
+
+.WRITER_INFO
+ Name: H G BHAGIYA
+ WriterId: 96
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: lecturer
+ Region: delhi
+ Age: 50
+ DeviceType: digimemo a402
+ SkillDevice: poor
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-7-17
+ WritingInProfession: no
+
+.PEN_DOWN
+5577 1835 0
+5574 1836 0
+5571 1838 0
+5568 1841 0
+5565 1844 0
+5562 1847 0
+5560 1850 0
+5559 1853 0
+5559 1856 0
+5562 1858 0
+5565 1859 0
+5569 1860 0
+5575 1861 0
+5582 1861 0
+5589 1860 0
+5595 1859 0
+5600 1858 0
+5602 1855 0
+5600 1852 0
+5597 1850 0
+5593 1849 0
+5589 1848 0
+5586 1849 0
+5583 1850 0
+5581 1846 0
+5581 1851 0
+.PEN_UP

@@ -1,0 +1,60 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "87"
+.H_LINE 9500 10374
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -196 Y: -86
+
+.WRITER_INFO
+ Name: AKSHAY
+ WriterId: 77
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+3871 10074 0
+3868 10077 0
+3865 10083 0
+3861 10091 0
+3856 10102 0
+3848 10116 0
+3839 10134 0
+3830 10152 0
+3819 10172 0
+3812 10187 0
+3808 10199 0
+3807 10205 0
+3809 10208 0
+.PEN_UP
+.PEN_DOWN
+3851 10091 0
+3854 10094 0
+3856 10098 0
+3860 10103 0
+3868 10111 0
+3877 10121 0
+3886 10131 0
+3898 10142 0
+3912 10151 0
+3928 10157 0
+.PEN_UP

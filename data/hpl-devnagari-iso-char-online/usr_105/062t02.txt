@@ -1,0 +1,58 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "62"
+.H_LINE 1374 2249
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 8 Y: -137
+
+.WRITER_INFO
+ Name: CHANDAN SHETTY
+ WriterId: 105
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bangalore
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: good
+ Date: 2007-9-1
+ WritingInProfession: no
+
+.PEN_DOWN
+4158 1921 0
+4158 1916 0
+4158 1910 0
+4158 1904 0
+4158 1899 0
+4154 1894 0
+4151 1891 0
+4148 1889 0
+4149 1894 0
+4153 1901 0
+4160 1911 0
+4174 1923 0
+4190 1938 0
+4210 1952 0
+4230 1966 0
+4249 1980 0
+4266 1993 0
+4281 2004 0
+4293 2013 0
+4303 2019 0
+4310 2022 0
+4314 2023 0
+4311 2020 0
+.PEN_UP

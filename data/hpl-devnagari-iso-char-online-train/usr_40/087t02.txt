@@ -1,0 +1,60 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "87"
+.H_LINE 9500 10374
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -101 Y: -76
+
+.WRITER_INFO
+ Name: A SUNIL
+ WriterId: 40
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: hyderabad
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+4011 10083 0
+4010 10080 0
+4006 10082 0
+4001 10087 0
+3993 10094 0
+3983 10101 0
+3975 10108 0
+3968 10114 0
+3964 10117 0
+3965 10113 0
+3967 10107 0
+3972 10098 0
+3979 10088 0
+3986 10077 0
+3992 10068 0
+3999 10061 0
+4004 10056 0
+4007 10053 0
+4012 10057 0
+4019 10064 0
+4029 10074 0
+4039 10084 0
+4051 10094 0
+4065 10104 0
+4080 10110 0
+.PEN_UP

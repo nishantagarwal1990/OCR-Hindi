@@ -1,0 +1,52 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "62"
+.H_LINE 1374 2249
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -20 Y: -77
+
+.WRITER_INFO
+ Name: VIVEK THACKER
+ WriterId: 97
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: orissa
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-8-16
+ WritingInProfession: no
+
+.PEN_DOWN
+4086 2009 0
+4083 2009 0
+4085 2012 0
+4091 2016 0
+4101 2021 0
+4112 2027 0
+4124 2033 0
+4134 2038 0
+4144 2044 0
+4154 2049 0
+4162 2053 0
+4168 2056 0
+4172 2058 0
+4175 2060 0
+4178 2062 0
+4181 2063 0
+4181 2063 0
+.PEN_UP

@@ -1,0 +1,49 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -83 Y: -29
+
+.WRITER_INFO
+ Name: SATYA
+ WriterId: 92
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: average
+ Date: 2007-7-8
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+5408 9782 0
+5405 9783 0
+5403 9786 0
+5401 9791 0
+5398 9797 0
+5395 9801 0
+5394 9804 0
+5393 9801 0
+5394 9796 0
+5396 9790 0
+5398 9785 0
+5400 9782 0
+5399 9787 0
+5398 9794 0
+.PEN_UP

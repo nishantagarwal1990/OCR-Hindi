@@ -1,0 +1,62 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "64"
+.H_LINE 1374 2249
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 9 Y: -247
+
+.WRITER_INFO
+ Name: RAGHUNATH SARMA
+ WriterId: 107
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: lecturer
+ Region: puttaparthi
+ Age: 39
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: good
+ Date: 2007-9-20
+ WritingInProfession: no
+
+.PEN_DOWN
+6888 1627 0
+6887 1624 0
+6886 1620 0
+6885 1617 0
+6884 1614 0
+6882 1617 0
+6882 1621 0
+6882 1628 0
+6882 1636 0
+6883 1646 0
+6885 1657 0
+6886 1669 0
+6887 1679 0
+6890 1690 0
+6893 1703 0
+6896 1719 0
+6897 1735 0
+6899 1750 0
+6900 1768 0
+6900 1786 0
+6900 1802 0
+6900 1814 0
+6901 1823 0
+6902 1830 0
+6903 1834 0
+6903 1837 0
+6902 1830 0
+.PEN_UP

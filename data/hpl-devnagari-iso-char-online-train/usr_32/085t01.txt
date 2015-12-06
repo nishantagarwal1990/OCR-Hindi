@@ -1,0 +1,55 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "85"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -63 Y: -147
+
+.WRITER_INFO
+ Name: PARVATHI CHARY
+ WriterId: 32
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: lecturer
+ Region: chennai
+ Age: 50
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: good
+ Date: 2007-9-20
+ WritingInProfession: no
+
+.PEN_DOWN
+894 9894 0
+893 9897 0
+891 9903 0
+889 9911 0
+885 9922 0
+880 9936 0
+874 9950 0
+866 9965 0
+857 9978 0
+850 9990 0
+842 10004 0
+832 10017 0
+822 10026 0
+815 10034 0
+809 10042 0
+803 10049 0
+799 10053 0
+797 10056 0
+800 10053 0
+806 10051 0
+.PEN_UP

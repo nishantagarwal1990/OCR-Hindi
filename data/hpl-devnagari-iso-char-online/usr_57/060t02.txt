@@ -1,0 +1,55 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -69 Y: 58
+
+.WRITER_INFO
+ Name: SAI KISHORE
+ WriterId: 57
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-23
+ WritingInProfession: no
+
+.PEN_DOWN
+916 1669 0
+915 1676 0
+914 1689 0
+914 1708 0
+916 1729 0
+919 1751 0
+925 1773 0
+933 1789 0
+943 1796 0
+955 1794 0
+970 1787 0
+.PEN_UP
+.PEN_DOWN
+978 1678 0
+973 1678 0
+968 1679 0
+965 1680 0
+965 1684 0
+970 1681 0
+983 1684 0
+.PEN_UP

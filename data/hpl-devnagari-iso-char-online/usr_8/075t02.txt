@@ -1,0 +1,77 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-2 OK "75"
+.H_LINE 6249 7124
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 18 Y: -86
+
+.WRITER_INFO
+ Name: N RAMPRASAD
+ WriterId: 8
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: madras
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+790 6817 0
+787 6813 0
+782 6808 0
+777 6802 0
+771 6794 0
+766 6786 0
+763 6778 0
+762 6771 0
+762 6764 0
+764 6759 0
+766 6754 0
+770 6748 0
+778 6743 0
+791 6739 0
+804 6737 0
+818 6736 0
+831 6735 0
+842 6735 0
+848 6736 0
+852 6738 0
+854 6741 0
+.PEN_UP
+.PEN_DOWN
+723 6726 0
+720 6726 0
+724 6723 0
+734 6720 0
+752 6717 0
+771 6715 0
+796 6715 0
+825 6717 0
+.PEN_UP
+.PEN_DOWN
+707 6631 0
+704 6630 0
+705 6627 0
+711 6624 0
+727 6620 0
+751 6617 0
+775 6616 0
+803 6618 0
+835 6620 0
+.PEN_UP

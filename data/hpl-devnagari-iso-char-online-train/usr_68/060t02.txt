@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -40 Y: -5
+
+.WRITER_INFO
+ Name: PRANAY SUBBA
+ WriterId: 68
+ Hand: right
+ EducationLevel: high school
+ Gender: male
+ Profession: student
+ Region: darjeeling
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-27
+ WritingInProfession: no
+
+.PEN_DOWN
+856 1636 0
+852 1635 0
+849 1638 0
+847 1643 0
+847 1649 0
+849 1654 0
+853 1659 0
+858 1665 0
+865 1670 0
+873 1673 0
+882 1676 0
+892 1678 0
+903 1679 0
+914 1679 0
+924 1677 0
+933 1675 0
+941 1670 0
+947 1667 0
+951 1664 0
+953 1661 0
+992 1658 0
+.PEN_UP
+.PEN_DOWN
+917 1624 0
+914 1623 0
+911 1620 0
+909 1617 0
+907 1614 0
+906 1611 0
+907 1614 0
+904 1621 0
+.PEN_UP

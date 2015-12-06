@@ -1,0 +1,55 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -5 Y: -117
+
+.WRITER_INFO
+ Name: SAI HARISH
+ WriterId: 29
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-15
+ WritingInProfession: no
+
+.PEN_DOWN
+5478 6576 0
+5472 6573 0
+5468 6570 0
+5465 6569 0
+5465 6573 0
+5464 6578 0
+5464 6585 0
+5463 6597 0
+5462 6614 0
+5461 6637 0
+5460 6667 0
+5461 6699 0
+5462 6731 0
+5463 6757 0
+5465 6778 0
+5467 6795 0
+5469 6807 0
+5470 6814 0
+5471 6818 0
+5474 6807 0
+.PEN_UP

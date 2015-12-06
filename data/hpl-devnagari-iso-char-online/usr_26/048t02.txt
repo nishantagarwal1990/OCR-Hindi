@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 24 Y: -115
+
+.WRITER_INFO
+ Name: GMBS SUNEEL KUMAR
+ WriterId: 26
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: anakapalli
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+5429 6563 0
+5434 6563 0
+5438 6568 0
+5440 6575 0
+5443 6586 0
+5446 6602 0
+5448 6622 0
+5450 6647 0
+5451 6675 0
+5451 6701 0
+5451 6724 0
+5451 6745 0
+5451 6761 0
+5451 6773 0
+5451 6781 0
+5451 6785 0
+5447 6774 0
+5441 6766 0
+.PEN_UP
+.PEN_DOWN
+5348 6584 0
+5344 6582 0
+5341 6580 0
+5344 6578 0
+5353 6577 0
+5372 6574 0
+5400 6572 0
+5432 6571 0
+5463 6570 0
+5497 6570 0
+.PEN_UP

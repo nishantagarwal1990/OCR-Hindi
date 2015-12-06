@@ -1,0 +1,76 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "70"
+.H_LINE 4624 5499
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -109 Y: -71
+
+.WRITER_INFO
+ Name: SAI SATISH
+ WriterId: 91
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: chennai
+ Age: 29
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-8-6
+ WritingInProfession: no
+
+.PEN_DOWN
+741 5083 0
+741 5086 0
+741 5091 0
+741 5099 0
+742 5108 0
+743 5118 0
+745 5130 0
+748 5144 0
+752 5157 0
+756 5169 0
+762 5179 0
+768 5186 0
+775 5190 0
+783 5190 0
+794 5186 0
+807 5179 0
+820 5168 0
+833 5155 0
+843 5143 0
+850 5130 0
+854 5118 0
+854 5107 0
+851 5100 0
+848 5096 0
+845 5094 0
+849 5095 0
+855 5095 0
+862 5096 0
+872 5095 0
+883 5094 0
+896 5093 0
+908 5092 0
+.PEN_UP
+.PEN_DOWN
+765 5006 0
+770 5008 0
+779 5011 0
+794 5013 0
+814 5014 0
+839 5013 0
+867 5010 0
+.PEN_UP

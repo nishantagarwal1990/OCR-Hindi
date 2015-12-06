@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = SANDEEP CHAWLA
+WriterId = 7
+Age = 23
+Gender = MALE
+Hand = RIGHT
+Region = MADHYA PRADESH
+Date = 2007-6-11
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = ONCE A WEEK
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = GOOD
+Native = TRUE

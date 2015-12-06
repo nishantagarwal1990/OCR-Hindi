@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "109"
+.H_LINE 6249 7124
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 17 Y: -73
+
+.WRITER_INFO
+ Name: HARDIK DAVE
+ WriterId: 62
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: punjab
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-23
+ WritingInProfession: no
+
+.PEN_DOWN
+6959 6634 0
+6956 6637 0
+6952 6643 0
+6945 6650 0
+6936 6657 0
+6926 6662 0
+6915 6666 0
+6904 6670 0
+6895 6672 0
+6888 6672 0
+6883 6670 0
+6880 6666 0
+6880 6661 0
+6883 6655 0
+6889 6647 0
+6900 6640 0
+6914 6634 0
+6932 6628 0
+6950 6625 0
+6965 6625 0
+6975 6626 0
+6982 6629 0
+6987 6635 0
+6991 6643 0
+6995 6652 0
+7001 6662 0
+7009 6673 0
+7017 6683 0
+7027 6692 0
+7037 6699 0
+7049 6702 0
+.PEN_UP

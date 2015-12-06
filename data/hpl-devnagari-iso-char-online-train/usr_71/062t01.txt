@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "62"
+.H_LINE 1374 2249
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -3 Y: -77
+
+.WRITER_INFO
+ Name: PRASANNA
+ WriterId: 71
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-27
+ WritingInProfession: no
+
+.PEN_DOWN
+4020 1961 0
+4017 1962 0
+4015 1966 0
+4014 1969 0
+4015 1973 0
+4018 1979 0
+4022 1985 0
+4027 1991 0
+4035 1999 0
+4046 2009 0
+4063 2018 0
+4078 2027 0
+4092 2035 0
+4105 2041 0
+4116 2047 0
+4124 2050 0
+4128 2052 0
+4130 2049 0
+4129 2046 0
+4126 2047 0
+4120 2041 0
+.PEN_UP

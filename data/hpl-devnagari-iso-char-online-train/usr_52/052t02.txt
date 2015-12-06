@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "52"
+.H_LINE 7874 8750
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -52 Y: -142
+
+.WRITER_INFO
+ Name: SHASHANK
+ WriterId: 52
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+3974 8469 0
+3975 8472 0
+3975 8475 0
+3975 8480 0
+3975 8486 0
+3974 8492 0
+3971 8496 0
+3968 8499 0
+3961 8501 0
+3951 8500 0
+3936 8497 0
+3917 8491 0
+3898 8482 0
+3883 8474 0
+3874 8468 0
+3870 8463 0
+3870 8458 0
+3875 8453 0
+3887 8450 0
+3906 8447 0
+3928 8444 0
+3949 8444 0
+3969 8446 0
+3989 8450 0
+4009 8455 0
+4029 8461 0
+4046 8467 0
+4062 8472 0
+4080 8477 0
+4098 8481 0
+4118 8482 0
+4139 8483 0
+4161 8481 0
+4181 8478 0
+.PEN_UP

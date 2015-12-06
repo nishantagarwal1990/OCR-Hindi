@@ -1,0 +1,54 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 17 Y: -96
+
+.WRITER_INFO
+ Name: Y SRAVAN KUMAR
+ WriterId: 28
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: markapur
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-15
+ WritingInProfession: no
+
+.PEN_DOWN
+5439 1967 0
+5434 1968 0
+5428 1971 0
+5421 1975 0
+5414 1980 0
+5410 1986 0
+5409 1992 0
+5411 1997 0
+5415 2001 0
+5421 2003 0
+5428 2004 0
+5434 2002 0
+5438 1999 0
+5441 1993 0
+5444 1985 0
+5445 1977 0
+5445 1971 0
+5445 1966 0
+5446 1971 0
+.PEN_UP

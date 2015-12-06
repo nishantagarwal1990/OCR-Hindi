@@ -1,0 +1,71 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "50"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -13 Y: -106
+
+.WRITER_INFO
+ Name: SHREYAS
+ WriterId: 65
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+867 8228 0
+864 8225 0
+860 8220 0
+856 8213 0
+853 8205 0
+851 8194 0
+848 8183 0
+846 8170 0
+844 8156 0
+843 8142 0
+844 8127 0
+848 8114 0
+852 8103 0
+858 8093 0
+866 8085 0
+874 8080 0
+884 8077 0
+896 8078 0
+908 8080 0
+920 8088 0
+931 8101 0
+942 8121 0
+950 8148 0
+956 8181 0
+962 8217 0
+966 8254 0
+968 8286 0
+969 8318 0
+968 8354 0
+965 8388 0
+960 8419 0
+955 8444 0
+950 8462 0
+947 8473 0
+946 8478 0
+946 8478 0
+.PEN_UP

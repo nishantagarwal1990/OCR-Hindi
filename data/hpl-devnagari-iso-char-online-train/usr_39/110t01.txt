@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 50 Y: -76
+
+.WRITER_INFO
+ Name: RAMAKRISHNA
+ WriterId: 39
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: visakhapatnam
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+901 8160 0
+895 8160 0
+892 8159 0
+889 8158 0
+890 8155 0
+892 8152 0
+895 8148 0
+901 8143 0
+909 8139 0
+916 8135 0
+923 8132 0
+931 8130 0
+941 8130 0
+948 8130 0
+952 8129 0
+955 8130 0
+957 8133 0
+960 8136 0
+963 8140 0
+964 8145 0
+966 8152 0
+968 8161 0
+970 8175 0
+972 8187 0
+974 8198 0
+977 8208 0
+979 8218 0
+980 8226 0
+981 8233 0
+982 8238 0
+982 8242 0
+982 8245 0
+984 8248 0
+985 8243 0
+.PEN_UP

@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 37 Y: -96
+
+.WRITER_INFO
+ Name: PRAKASH VARMA
+ WriterId: 14
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: vizayanagaram
+ Age: 25
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-12
+ WritingInProfession: can't say
+
+.PEN_DOWN
+932 1620 0
+929 1619 0
+925 1618 0
+922 1617 0
+921 1620 0
+923 1625 0
+928 1631 0
+934 1639 0
+943 1646 0
+955 1652 0
+969 1657 0
+986 1659 0
+1003 1659 0
+1020 1656 0
+1033 1653 0
+1043 1649 0
+1050 1644 0
+1055 1640 0
+1057 1627 0
+1057 1627 0
+.PEN_UP
+.PEN_DOWN
+1012 1556 0
+1007 1555 0
+1001 1554 0
+996 1553 0
+999 1556 0
+1004 1559 0
+1009 1561 0
+1014 1561 0
+1020 1561 0
+1023 1560 0
+1019 1555 0
+1016 1561 0
+.PEN_UP

@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 0 Y: -132
+
+.WRITER_INFO
+ Name: VAMSI KRISHNA
+ WriterId: 64
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+5415 6552 0
+5414 6548 0
+5413 6545 0
+5411 6542 0
+5408 6541 0
+5407 6545 0
+5408 6553 0
+5410 6564 0
+5412 6580 0
+5413 6597 0
+5416 6616 0
+5417 6637 0
+5418 6657 0
+5419 6675 0
+5419 6692 0
+5419 6706 0
+5419 6717 0
+5419 6726 0
+5419 6733 0
+5419 6740 0
+5419 6745 0
+5419 6748 0
+.PEN_UP

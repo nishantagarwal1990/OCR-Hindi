@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -110 Y: -114
+
+.WRITER_INFO
+ Name: AMIT PRAKASH
+ WriterId: 108
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: lucknow
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-11-15
+ WritingInProfession: no
+
+.PEN_DOWN
+879 8160 0
+880 8156 0
+881 8153 0
+882 8150 0
+885 8148 0
+888 8145 0
+891 8143 0
+895 8140 0
+899 8139 0
+903 8139 0
+906 8141 0
+908 8144 0
+910 8150 0
+912 8159 0
+914 8170 0
+916 8184 0
+917 8201 0
+917 8218 0
+916 8235 0
+913 8251 0
+909 8267 0
+903 8281 0
+899 8291 0
+895 8299 0
+892 8303 0
+891 8307 0
+.PEN_UP

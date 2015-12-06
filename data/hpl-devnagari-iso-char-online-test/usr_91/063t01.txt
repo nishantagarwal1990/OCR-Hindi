@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -94 Y: -74
+
+.WRITER_INFO
+ Name: SAI SATISH
+ WriterId: 91
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: chennai
+ Age: 29
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-8-6
+ WritingInProfession: no
+
+.PEN_DOWN
+5654 2025 0
+5655 2022 0
+5656 2019 0
+5656 2016 0
+5656 2013 0
+5654 2010 0
+5651 2012 0
+5650 2015 0
+5649 2018 0
+5648 2022 0
+5648 2026 0
+5649 2029 0
+5652 2029 0
+5655 2027 0
+5657 2024 0
+5659 2021 0
+5659 2017 0
+5659 2012 0
+5658 2008 0
+5657 2005 0
+5654 2004 0
+5651 2007 0
+5650 2011 0
+5648 2015 0
+5648 2019 0
+5648 2022 0
+5651 2022 0
+5654 2021 0
+5657 2021 0
+5659 2016 0
+.PEN_UP

@@ -1,0 +1,67 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 4 Y: -67
+
+.WRITER_INFO
+ Name: T PRAVEEN
+ WriterId: 49
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-21
+ WritingInProfession: no
+
+.PEN_DOWN
+920 1597 0
+917 1597 0
+914 1598 0
+913 1601 0
+913 1607 0
+914 1615 0
+918 1626 0
+925 1640 0
+934 1653 0
+942 1665 0
+954 1675 0
+969 1684 0
+987 1689 0
+1002 1690 0
+1015 1687 0
+1029 1681 0
+1042 1672 0
+1055 1660 0
+1067 1650 0
+1076 1642 0
+1082 1635 0
+1085 1630 0
+1085 1627 0
+1079 1626 0
+.PEN_UP
+.PEN_DOWN
+995 1598 0
+991 1595 0
+988 1592 0
+986 1589 0
+986 1582 0
+990 1589 0
+.PEN_UP

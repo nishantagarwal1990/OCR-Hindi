@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "50"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -3 Y: -149
+
+.WRITER_INFO
+ Name: PRADEEP KUMAR
+ WriterId: 67
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+789 8238 0
+786 8235 0
+783 8231 0
+780 8226 0
+776 8219 0
+772 8211 0
+769 8200 0
+767 8180 0
+768 8154 0
+772 8124 0
+781 8092 0
+793 8066 0
+805 8050 0
+812 8042 0
+816 8039 0
+819 8044 0
+825 8060 0
+832 8086 0
+841 8127 0
+850 8174 0
+855 8220 0
+858 8263 0
+860 8307 0
+860 8351 0
+860 8391 0
+862 8423 0
+864 8447 0
+866 8462 0
+868 8471 0
+869 8475 0
+863 8478 0
+.PEN_UP

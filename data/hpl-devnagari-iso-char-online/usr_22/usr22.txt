@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = LAWA HARI NEPAL
+WriterId = 22
+Age = 23
+Gender = MALE
+Hand = RIGHT
+Region = DARJEELING
+Date = 2007-6-14
+SkillDevice = POOR
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = RARELY
+EducationLevel = POST GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = TRUE

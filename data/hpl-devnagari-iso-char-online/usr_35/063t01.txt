@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 118 Y: -167
+
+.WRITER_INFO
+ Name: ANURAG
+ WriterId: 35
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: sikkim
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: average
+ Date: 2007-6-16
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+5561 1860 0
+5558 1860 0
+5555 1861 0
+5552 1863 0
+5551 1867 0
+5552 1871 0
+5553 1875 0
+5555 1878 0
+5558 1879 0
+5561 1879 0
+5564 1877 0
+5567 1873 0
+5569 1869 0
+5571 1865 0
+5572 1861 0
+5573 1857 0
+5572 1854 0
+5569 1852 0
+5565 1852 0
+5561 1852 0
+5557 1854 0
+5554 1857 0
+5551 1860 0
+5550 1863 0
+5550 1866 0
+5553 1868 0
+5556 1868 0
+5559 1867 0
+5562 1865 0
+5563 1861 0
+5570 1858 0
+.PEN_UP

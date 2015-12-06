@@ -1,0 +1,62 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 89 Y: -134
+
+.WRITER_INFO
+ Name: P SURESH
+ WriterId: 46
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: anakapalli
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-20
+ WritingInProfession: no
+
+.PEN_DOWN
+5526 1993 0
+5530 1995 0
+5535 1995 0
+5540 1994 0
+5545 1992 0
+5550 1989 0
+5554 1986 0
+5557 1984 0
+5554 1986 0
+5551 1991 0
+5547 1996 0
+5544 2000 0
+5543 2004 0
+5545 2008 0
+5549 2010 0
+5554 2011 0
+5559 2010 0
+5564 2008 0
+5567 2006 0
+5569 2003 0
+5570 2000 0
+5565 1998 0
+5558 1997 0
+5550 1998 0
+5542 1999 0
+5537 2000 0
+5537 2000 0
+.PEN_UP

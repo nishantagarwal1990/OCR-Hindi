@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -55 Y: -11
+
+.WRITER_INFO
+ Name: PRASANNA
+ WriterId: 71
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-27
+ WritingInProfession: no
+
+.PEN_DOWN
+828 8251 0
+828 8247 0
+828 8244 0
+830 8241 0
+833 8240 0
+836 8239 0
+839 8237 0
+842 8236 0
+845 8235 0
+848 8233 0
+852 8232 0
+856 8231 0
+861 8230 0
+867 8230 0
+873 8231 0
+879 8232 0
+885 8235 0
+890 8239 0
+894 8244 0
+898 8251 0
+901 8258 0
+904 8266 0
+906 8274 0
+907 8286 0
+909 8295 0
+911 8301 0
+912 8306 0
+912 8310 0
+911 8313 0
+907 8310 0
+.PEN_UP

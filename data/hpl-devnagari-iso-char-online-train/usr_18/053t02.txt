@@ -1,0 +1,59 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -9 Y: -147
+
+.WRITER_INFO
+ Name: AJIT PADYANA
+ WriterId: 18
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mangalore
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-13
+ WritingInProfession: no
+
+.PEN_DOWN
+5569 8455 0
+5566 8454 0
+5562 8453 0
+5555 8452 0
+5547 8453 0
+5538 8454 0
+5530 8456 0
+5522 8462 0
+5514 8469 0
+5504 8479 0
+5498 8488 0
+5495 8498 0
+5494 8507 0
+5495 8515 0
+5499 8522 0
+5507 8529 0
+5519 8534 0
+5535 8537 0
+5555 8537 0
+5576 8536 0
+5595 8534 0
+5609 8528 0
+5621 8522 0
+5632 8517 0
+.PEN_UP

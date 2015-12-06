@@ -1,0 +1,79 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "40"
+.H_LINE 4624 5499
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -48 Y: -163
+
+.WRITER_INFO
+ Name: AVINASH B.
+ WriterId: 106
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bangalore
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-9-1
+ WritingInProfession: no
+
+.PEN_DOWN
+962 4865 0
+962 4861 0
+962 4868 0
+962 4885 0
+961 4908 0
+961 4936 0
+960 4966 0
+957 4995 0
+954 5023 0
+952 5046 0
+951 5063 0
+950 5073 0
+949 5078 0
+949 5071 0
+948 5059 0
+948 5043 0
+947 5028 0
+945 5007 0
+938 4989 0
+927 4974 0
+911 4964 0
+892 4958 0
+870 4957 0
+846 4960 0
+822 4967 0
+802 4976 0
+788 4987 0
+779 4997 0
+777 5006 0
+784 5014 0
+801 5021 0
+833 5026 0
+875 5026 0
+918 5022 0
+.PEN_UP
+.PEN_DOWN
+782 4853 0
+787 4853 0
+798 4853 0
+820 4853 0
+855 4853 0
+897 4853 0
+941 4855 0
+991 4851 0
+.PEN_UP

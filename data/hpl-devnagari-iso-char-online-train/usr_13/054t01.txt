@@ -1,0 +1,51 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "54"
+.H_LINE 7874 8750
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 41 Y: -109
+
+.WRITER_INFO
+ Name: K SRI CHARAN
+ WriterId: 13
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: puttaparthi
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-12
+ WritingInProfession: no
+
+.PEN_DOWN
+6831 8079 0
+6828 8078 0
+6825 8078 0
+6826 8081 0
+6830 8088 0
+6837 8096 0
+6847 8108 0
+6859 8122 0
+6873 8135 0
+6891 8148 0
+6908 8159 0
+6925 8167 0
+6939 8173 0
+6952 8178 0
+6961 8182 0
+6966 8186 0
+.PEN_UP

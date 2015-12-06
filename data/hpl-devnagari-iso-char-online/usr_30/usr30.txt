@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = S VIJAY KUMAR
+WriterId = 30
+Age = 22
+Gender = MALE
+Hand = RIGHT
+Region = RAJAHMUNDRY
+Date = 2007-6-15
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = ONCE A MONTH
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

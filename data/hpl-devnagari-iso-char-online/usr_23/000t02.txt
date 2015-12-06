@@ -1,0 +1,64 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 33 Y: -74
+
+.WRITER_INFO
+ Name: SAI SHANKAR KUMAR MOHANTY
+ WriterId: 23
+ Hand: right
+ EducationLevel: high school
+ Gender: male
+ Profession: student
+ Region: srikakulam
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: good
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+781 1924 0
+773 1923 0
+765 1922 0
+758 1921 0
+751 1919 0
+744 1917 0
+738 1916 0
+733 1915 0
+729 1915 0
+725 1915 0
+722 1916 0
+721 1919 0
+723 1922 0
+727 1925 0
+736 1929 0
+748 1931 0
+764 1933 0
+780 1932 0
+800 1930 0
+824 1927 0
+853 1923 0
+887 1921 0
+920 1918 0
+947 1917 0
+963 1917 0
+971 1917 0
+975 1917 0
+969 1922 0
+957 1928 0
+.PEN_UP

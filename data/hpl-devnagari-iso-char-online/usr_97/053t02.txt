@@ -1,0 +1,67 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -16 Y: -157
+
+.WRITER_INFO
+ Name: VIVEK THACKER
+ WriterId: 97
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: orissa
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-8-16
+ WritingInProfession: no
+
+.PEN_DOWN
+5495 8452 0
+5495 8449 0
+5496 8446 0
+5498 8443 0
+5497 8440 0
+5494 8439 0
+5490 8439 0
+5485 8441 0
+5480 8444 0
+5474 8450 0
+5467 8457 0
+5459 8465 0
+5451 8473 0
+5446 8480 0
+5443 8488 0
+5443 8495 0
+5445 8502 0
+5449 8508 0
+5456 8514 0
+5467 8519 0
+5478 8524 0
+5489 8529 0
+5499 8535 0
+5511 8537 0
+5523 8539 0
+5532 8539 0
+5541 8539 0
+5549 8538 0
+5553 8538 0
+5556 8537 0
+5559 8531 0
+5565 8529 0
+.PEN_UP

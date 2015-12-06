@@ -1,0 +1,53 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "85"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -14 Y: -125
+
+.WRITER_INFO
+ Name: L PRASHANT
+ WriterId: 56
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: employee
+ Region: visakhapatnam
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-23
+ WritingInProfession: no
+
+.PEN_DOWN
+878 9983 0
+875 9985 0
+870 9987 0
+866 9989 0
+862 9993 0
+857 9998 0
+851 10005 0
+844 10013 0
+835 10023 0
+824 10034 0
+810 10047 0
+797 10059 0
+784 10071 0
+775 10081 0
+768 10089 0
+761 10095 0
+756 10099 0
+756 10099 0
+.PEN_UP

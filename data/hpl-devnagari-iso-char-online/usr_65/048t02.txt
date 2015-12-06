@@ -1,0 +1,68 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -38 Y: -91
+
+.WRITER_INFO
+ Name: SHREYAS
+ WriterId: 65
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+5374 6622 0
+5374 6619 0
+5371 6614 0
+5369 6611 0
+5368 6608 0
+5369 6615 0
+5371 6626 0
+5373 6641 0
+5375 6662 0
+5377 6687 0
+5377 6712 0
+5376 6736 0
+5375 6758 0
+5376 6778 0
+5378 6794 0
+5380 6805 0
+5383 6812 0
+5383 6812 0
+.PEN_UP
+.PEN_DOWN
+5288 6614 0
+5289 6611 0
+5290 6608 0
+5294 6603 0
+5301 6599 0
+5312 6595 0
+5328 6591 0
+5347 6587 0
+5365 6583 0
+5383 6582 0
+5401 6581 0
+5418 6579 0
+5435 6580 0
+.PEN_UP

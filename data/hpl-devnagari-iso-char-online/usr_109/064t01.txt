@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "64"
+.H_LINE 1374 2249
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 15 Y: -166
+
+.WRITER_INFO
+ Name: S BALASUBRAHMANIAM
+ WriterId: 109
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: reseach scholar
+ Region: chennai
+ Age: 28
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-11-23
+ WritingInProfession: no
+
+.PEN_DOWN
+6989 1750 0
+6990 1746 0
+6991 1743 0
+6992 1748 0
+6993 1755 0
+6994 1764 0
+6994 1775 0
+6995 1790 0
+6996 1810 0
+6996 1832 0
+6998 1856 0
+6999 1882 0
+6999 1906 0
+7001 1928 0
+7002 1945 0
+7003 1958 0
+7004 1970 0
+7005 1979 0
+7005 1985 0
+7005 1989 0
+7005 1992 0
+7002 1982 0
+.PEN_UP

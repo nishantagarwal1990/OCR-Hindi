@@ -1,0 +1,70 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -42 Y: -51
+
+.WRITER_INFO
+ Name: SIDDARTH
+ WriterId: 37
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-10-11
+ WritingInProfession: no
+
+.PEN_DOWN
+739 1856 0
+736 1855 0
+739 1854 0
+746 1853 0
+753 1852 0
+761 1853 0
+772 1853 0
+786 1854 0
+804 1856 0
+820 1857 0
+838 1856 0
+858 1857 0
+874 1857 0
+885 1857 0
+893 1857 0
+900 1858 0
+905 1858 0
+909 1858 0
+912 1858 0
+915 1858 0
+919 1858 0
+924 1858 0
+930 1858 0
+940 1858 0
+953 1858 0
+966 1858 0
+978 1859 0
+990 1859 0
+1000 1859 0
+1007 1859 0
+1013 1859 0
+1018 1859 0
+1022 1860 0
+1025 1860 0
+1020 1862 0
+.PEN_UP

@@ -1,0 +1,77 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "70"
+.H_LINE 4624 5499
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -7 Y: -94
+
+.WRITER_INFO
+ Name: SHAILESH
+ WriterId: 66
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: jharkand
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+920 5064 0
+917 5064 0
+914 5064 0
+907 5064 0
+893 5065 0
+875 5067 0
+857 5068 0
+842 5070 0
+830 5072 0
+822 5073 0
+818 5074 0
+818 5078 0
+822 5083 0
+826 5088 0
+830 5095 0
+834 5105 0
+837 5114 0
+837 5123 0
+834 5131 0
+826 5139 0
+816 5145 0
+805 5147 0
+794 5146 0
+782 5142 0
+773 5134 0
+766 5123 0
+759 5108 0
+755 5095 0
+754 5082 0
+755 5067 0
+755 5067 0
+.PEN_UP
+.PEN_DOWN
+806 4999 0
+803 4998 0
+799 4997 0
+800 4993 0
+807 4989 0
+819 4988 0
+839 4988 0
+868 4986 0
+903 4984 0
+.PEN_UP

@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = PURANAM SAI GUNARANJAN
+WriterId = 19
+Age = 22
+Gender = MALE
+Hand = RIGHT
+Region = HYDERABAD
+Date = 2007-6-12
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = RARELY
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

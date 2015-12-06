@@ -1,0 +1,60 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "85"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -86 Y: 3
+
+.WRITER_INFO
+ Name: NAGARAJU
+ WriterId: 2
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: warangal
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: good
+ Date: 2007-6-6
+ WritingInProfession: no
+
+.PEN_DOWN
+860 10087 0
+860 10091 0
+860 10094 0
+860 10097 0
+860 10100 0
+850 10104 0
+840 10110 0
+832 10115 0
+825 10120 0
+817 10127 0
+808 10134 0
+799 10141 0
+792 10147 0
+785 10152 0
+779 10156 0
+772 10160 0
+766 10164 0
+760 10167 0
+755 10169 0
+752 10171 0
+749 10173 0
+745 10176 0
+742 10178 0
+739 10179 0
+739 10179 0
+.PEN_UP

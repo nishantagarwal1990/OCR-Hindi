@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "54"
+.H_LINE 7874 8750
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 40 Y: -161
+
+.WRITER_INFO
+ Name: AIYAPPA
+ WriterId: 103
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-9-20
+ WritingInProfession: no
+
+.PEN_DOWN
+7006 8054 0
+7005 8051 0
+7004 8048 0
+7002 8045 0
+7003 8051 0
+7007 8061 0
+7012 8071 0
+7018 8082 0
+7025 8093 0
+7032 8104 0
+7037 8114 0
+7042 8123 0
+7046 8131 0
+7049 8139 0
+7053 8147 0
+7056 8153 0
+7058 8158 0
+7060 8162 0
+7061 8166 0
+7062 8170 0
+7063 8175 0
+7064 8179 0
+7065 8184 0
+7066 8188 0
+7067 8191 0
+7067 8188 0
+7067 8184 0
+7067 8179 0
+7066 8173 0
+7061 8166 0
+.PEN_UP

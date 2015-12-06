@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = K SRI CHARAN
+WriterId = 13
+Age = 24
+Gender = MALE
+Hand = RIGHT
+Region = PUTTAPARTHI
+Date = 2007-6-12
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = ONCE A MONTH
+EducationLevel = POST GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

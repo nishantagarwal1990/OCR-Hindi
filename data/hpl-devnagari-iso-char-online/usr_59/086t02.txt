@@ -1,0 +1,62 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "86"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -100 Y: 0
+
+.WRITER_INFO
+ Name: CHINMAYA SHAH
+ WriterId: 59
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: delhi
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-25
+ WritingInProfession: no
+
+.PEN_DOWN
+2431 9839 0
+2429 9836 0
+2427 9833 0
+2423 9831 0
+2420 9831 0
+2415 9833 0
+2411 9837 0
+2407 9842 0
+2403 9849 0
+2399 9857 0
+2395 9866 0
+2392 9876 0
+2391 9885 0
+2392 9893 0
+2394 9899 0
+2397 9904 0
+2400 9908 0
+2404 9911 0
+2408 9913 0
+2414 9914 0
+2421 9914 0
+2427 9914 0
+2433 9913 0
+2437 9912 0
+2441 9911 0
+2445 9900 0
+2445 9900 0
+.PEN_UP

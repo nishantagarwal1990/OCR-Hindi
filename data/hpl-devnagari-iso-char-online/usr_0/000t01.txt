@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -1 Y: -109
+
+.WRITER_INFO
+ Name: KALYAN
+ WriterId: 0
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: puttaparthi
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: poor
+ Date: 2006-6-6
+ WritingInProfession: no
+
+.PEN_DOWN
+712 1797 0
+709 1798 0
+706 1799 0
+712 1801 0
+724 1801 0
+741 1799 0
+762 1797 0
+790 1796 0
+823 1795 0
+861 1794 0
+901 1791 0
+937 1790 0
+968 1790 0
+991 1790 0
+1008 1789 0
+1021 1788 0
+1030 1788 0
+1034 1788 0
+1034 1791 0
+1034 1794 0
+1036 1798 0
+.PEN_UP

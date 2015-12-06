@@ -1,0 +1,71 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "67"
+.H_LINE 2999 3874
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -20 Y: -119
+
+.WRITER_INFO
+ Name: SAI PRASHANT
+ WriterId: 79
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bheemavaram
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+3851 3401 0
+3848 3394 0
+3845 3386 0
+3842 3380 0
+3840 3376 0
+3842 3381 0
+3844 3390 0
+3846 3404 0
+3848 3422 0
+3850 3443 0
+3852 3464 0
+3853 3483 0
+3852 3501 0
+3850 3516 0
+3845 3529 0
+3838 3538 0
+3832 3543 0
+3827 3545 0
+3823 3546 0
+3819 3545 0
+3814 3542 0
+3806 3536 0
+3796 3527 0
+3786 3517 0
+3780 3507 0
+3777 3499 0
+.PEN_UP
+.PEN_DOWN
+3817 3379 0
+3820 3379 0
+3827 3378 0
+3838 3378 0
+3851 3376 0
+3870 3375 0
+3895 3372 0
+3924 3367 0
+.PEN_UP

@@ -1,0 +1,51 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 106 Y: -119
+
+.WRITER_INFO
+ Name: ABHINAY
+ WriterId: 33
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: good
+ Date: 2007-6-16
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+5538 6535 0
+5533 6532 0
+5528 6530 0
+5525 6528 0
+5526 6531 0
+5527 6536 0
+5528 6542 0
+5528 6550 0
+5527 6562 0
+5525 6579 0
+5523 6603 0
+5525 6634 0
+5530 6666 0
+5538 6695 0
+5548 6719 0
+5562 6732 0
+.PEN_UP

@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "86"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 42 Y: -58
+
+.WRITER_INFO
+ Name: GUNA SEKHAR
+ WriterId: 83
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: coimbatore
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+2627 9800 0
+2621 9802 0
+2617 9803 0
+2613 9804 0
+2610 9804 0
+2606 9804 0
+2602 9803 0
+2599 9802 0
+2594 9800 0
+2587 9797 0
+2580 9794 0
+2574 9789 0
+2568 9784 0
+2564 9779 0
+2561 9775 0
+2560 9770 0
+2561 9765 0
+2562 9761 0
+2565 9756 0
+2570 9749 0
+2577 9742 0
+2585 9736 0
+2592 9730 0
+2601 9724 0
+2611 9719 0
+2622 9714 0
+2632 9710 0
+2642 9706 0
+2651 9703 0
+2657 9702 0
+2660 9701 0
+.PEN_UP

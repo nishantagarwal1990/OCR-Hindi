@@ -1,0 +1,53 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "62"
+.H_LINE 1374 2249
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 21 Y: -61
+
+.WRITER_INFO
+ Name: SAI GIRIDHAR
+ WriterId: 42
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: chennai
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: good
+ Date: 2007-6-19
+ WritingInProfession: no
+
+.PEN_DOWN
+4025 2007 0
+4026 2004 0
+4026 2001 0
+4026 1998 0
+4027 2001 0
+4028 2004 0
+4029 2007 0
+4032 2011 0
+4037 2017 0
+4046 2023 0
+4059 2029 0
+4072 2034 0
+4085 2038 0
+4094 2041 0
+4101 2043 0
+4106 2044 0
+4110 2045 0
+4110 2045 0
+.PEN_UP

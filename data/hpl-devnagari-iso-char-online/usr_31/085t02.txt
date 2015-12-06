@@ -1,0 +1,52 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "85"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -23 Y: -92
+
+.WRITER_INFO
+ Name: S SRIRAM
+ WriterId: 31
+ Hand: right
+ EducationLevel: high school
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: good
+ Date: 2007-6-15
+ WritingInProfession: no
+
+.PEN_DOWN
+907 9986 0
+907 9993 0
+906 10004 0
+904 10020 0
+899 10039 0
+891 10058 0
+879 10077 0
+864 10099 0
+847 10125 0
+832 10148 0
+822 10165 0
+815 10179 0
+810 10187 0
+808 10190 0
+808 10186 0
+809 10178 0
+804 10165 0
+.PEN_UP

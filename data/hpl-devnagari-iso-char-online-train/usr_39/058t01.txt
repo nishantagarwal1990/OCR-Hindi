@@ -1,0 +1,62 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 119 Y: -113
+
+.WRITER_INFO
+ Name: RAMAKRISHNA
+ WriterId: 39
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: visakhapatnam
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+5475 9676 0
+5472 9675 0
+5468 9674 0
+5465 9673 0
+5463 9677 0
+5463 9682 0
+5464 9687 0
+5466 9691 0
+5469 9694 0
+5472 9696 0
+5475 9697 0
+5478 9697 0
+5480 9694 0
+5481 9691 0
+5480 9688 0
+5477 9687 0
+5471 9686 0
+5466 9686 0
+5463 9686 0
+5462 9689 0
+5462 9692 0
+5463 9695 0
+5466 9697 0
+5469 9698 0
+5472 9698 0
+5475 9698 0
+5475 9698 0
+.PEN_UP

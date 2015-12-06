@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{arora2008combining}
+Sandhya Arora, Debotosh Bhattacharjee, Mita Nasipuri, Dipak~Kumar Basu, and
+  Mahantapas Kundu.
+\newblock Combining multiple feature extraction techniques for handwritten
+  devnagari character recognition.
+\newblock In {\em Industrial and Information Systems, 2008. ICIIS 2008. IEEE
+  Region 10 and the Third international Conference on}, pages 1--6. IEEE, 2008.
+
+\bibitem{bhattacharjee2010performance}
+Sandhya Arora1~Debotosh Bhattacharjee, Mita Nasipuri, L~Malik, M~Kundu, and
+  DK~Basu.
+\newblock Performance comparison of svm and ann for handwritten devnagari
+  character recognition.
+\newblock {\em IJCSI}, page~18, 2010.
+
+\bibitem{birajdar2015recognition}
+Deepali~R Birajdar and Manasi~M Patil.
+\newblock Recognition of off-line handwritten devanagari characters using
+  combinational feature extraction.
+\newblock {\em International Journal of Computer Applications}, 120(3), 2015.
+
+\bibitem{dongre2013devnagari}
+Vikas~J Dongre and Vijay~H Mankar.
+\newblock Devnagari handwritten numeral recognition using geometric features
+  and statistical combination classifier.
+\newblock {\em arXiv preprint arXiv:1310.5619}, 2013.
+
+\bibitem{goyal2010optical}
+Aditi Goyal, Kartikay Khandelwal, and Piyush Keshri.
+\newblock Optical character recognition for handwritten hindi, 2010.
+
+\bibitem{Data}
+HP~Labs.
+\newblock Hp labs india indic handwriting datasets.
+\newblock
+  \url{http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf}.
+
+\bibitem{Neural}
+Neural Networks.
+\newblock Neural networks for ocr.
+\newblock \url{http://www.codeproject.com/Articles/11285/Neural-Network-OCR}.
+
+\bibitem{OpenCV}
+Jan~Erik Solem.
+\newblock Programming computer vision with python.
+\newblock
+  \url{http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf}.
+
+\end{thebibliography}

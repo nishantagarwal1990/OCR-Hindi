@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -113 Y: 39
+
+.WRITER_INFO
+ Name: SAIRAM
+ WriterId: 73
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-7-3
+ WritingInProfession: no
+
+.PEN_DOWN
+708 1763 0
+708 1758 0
+705 1757 0
+708 1755 0
+713 1755 0
+718 1754 0
+723 1753 0
+732 1753 0
+742 1752 0
+754 1751 0
+765 1750 0
+781 1749 0
+797 1748 0
+817 1748 0
+837 1748 0
+855 1746 0
+873 1744 0
+890 1742 0
+909 1740 0
+930 1737 0
+949 1737 0
+970 1737 0
+989 1736 0
+1004 1737 0
+1016 1737 0
+1027 1737 0
+1037 1737 0
+1045 1736 0
+1053 1736 0
+1059 1734 0
+1064 1735 0
+1069 1734 0
+1072 1734 0
+1071 1738 0
+.PEN_UP

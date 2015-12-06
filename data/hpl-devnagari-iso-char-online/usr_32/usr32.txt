@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = PARVATHI CHARY
+WriterId = 32
+Age = 50
+Gender = MALE
+Hand = RIGHT
+Region = CHENNAI
+Date = 2007-9-20
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = LECTURER
+UsageFreq = RARELY
+EducationLevel = POST GRADUATE
+WritingInProfession = NO
+Proficiency = GOOD
+Native = FALSE

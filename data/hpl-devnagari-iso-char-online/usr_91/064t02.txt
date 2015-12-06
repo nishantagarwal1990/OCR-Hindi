@@ -1,0 +1,58 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "64"
+.H_LINE 1374 2249
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -88 Y: -122
+
+.WRITER_INFO
+ Name: SAI SATISH
+ WriterId: 91
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: chennai
+ Age: 29
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-8-6
+ WritingInProfession: no
+
+.PEN_DOWN
+6908 1738 0
+6908 1735 0
+6908 1732 0
+6908 1729 0
+6900 1727 0
+6896 1727 0
+6893 1729 0
+6892 1733 0
+6891 1743 0
+6890 1756 0
+6889 1772 0
+6887 1788 0
+6885 1806 0
+6883 1825 0
+6883 1847 0
+6882 1869 0
+6882 1891 0
+6883 1913 0
+6883 1931 0
+6884 1946 0
+6883 1959 0
+6883 1970 0
+6881 1976 0
+.PEN_UP

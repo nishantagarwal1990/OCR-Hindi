@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "52"
+.H_LINE 7874 8750
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -122 Y: -100
+
+.WRITER_INFO
+ Name: KALYAN SAI PREM
+ WriterId: 27
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+3972 8415 0
+3972 8418 0
+3972 8423 0
+3972 8431 0
+3970 8443 0
+3967 8455 0
+3964 8467 0
+3960 8478 0
+3953 8487 0
+3946 8495 0
+3938 8500 0
+3931 8504 0
+3926 8506 0
+3921 8505 0
+3919 8501 0
+3918 8496 0
+3918 8488 0
+3920 8478 0
+3923 8468 0
+3928 8456 0
+3934 8446 0
+3943 8438 0
+3955 8431 0
+3968 8426 0
+3980 8423 0
+3994 8422 0
+4009 8422 0
+4022 8423 0
+4034 8424 0
+4044 8426 0
+4052 8428 0
+4059 8429 0
+4064 8430 0
+4067 8429 0
+.PEN_UP

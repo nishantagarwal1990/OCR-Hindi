@@ -1,0 +1,55 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "85"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -21 Y: -150
+
+.WRITER_INFO
+ Name: RAJ BHUSHAN
+ WriterId: 41
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: karvar
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+922 9964 0
+922 9961 0
+921 9958 0
+918 9956 0
+915 9955 0
+910 9957 0
+904 9962 0
+896 9969 0
+887 9980 0
+874 9993 0
+860 10008 0
+846 10024 0
+832 10044 0
+818 10066 0
+804 10087 0
+793 10104 0
+784 10117 0
+778 10125 0
+775 10129 0
+778 10126 0
+.PEN_UP

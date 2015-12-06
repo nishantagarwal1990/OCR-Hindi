@@ -1,0 +1,71 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "75"
+.H_LINE 6249 7124
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -8 Y: -112
+
+.WRITER_INFO
+ Name: BVK BHARADWAJ
+ WriterId: 38
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: bhadrachalam
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+630 6597 0
+635 6598 0
+647 6599 0
+666 6598 0
+690 6596 0
+715 6594 0
+735 6591 0
+752 6589 0
+768 6587 0
+778 6585 0
+783 6584 0
+778 6587 0
+772 6592 0
+762 6604 0
+751 6619 0
+741 6636 0
+732 6654 0
+724 6674 0
+718 6692 0
+714 6706 0
+712 6716 0
+713 6724 0
+716 6730 0
+722 6734 0
+733 6735 0
+749 6730 0
+773 6720 0
+806 6706 0
+.PEN_UP
+.PEN_DOWN
+694 6510 0
+697 6508 0
+702 6506 0
+713 6502 0
+731 6497 0
+754 6492 0
+.PEN_UP

@@ -1,0 +1,71 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "55"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -8 Y: -67
+
+.WRITER_INFO
+ Name: SHASHANK
+ WriterId: 52
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+779 9657 0
+779 9654 0
+779 9651 0
+782 9651 0
+786 9654 0
+794 9663 0
+806 9677 0
+823 9697 0
+841 9720 0
+858 9744 0
+873 9765 0
+884 9783 0
+892 9800 0
+899 9814 0
+904 9825 0
+907 9832 0
+909 9837 0
+.PEN_UP
+.PEN_DOWN
+888 9600 0
+887 9604 0
+888 9613 0
+890 9629 0
+893 9649 0
+896 9674 0
+898 9701 0
+900 9727 0
+902 9752 0
+904 9774 0
+904 9792 0
+905 9807 0
+907 9819 0
+908 9827 0
+909 9832 0
+909 9835 0
+912 9837 0
+.PEN_UP

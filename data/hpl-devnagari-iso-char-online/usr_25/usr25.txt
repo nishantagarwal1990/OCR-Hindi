@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = SRIVATSA PRAKASH
+WriterId = 25
+Age = 22
+Gender = MALE
+Hand = RIGHT
+Region = BANGALORE
+Date = 2007-6-14
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = ONCE A MONTH
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

@@ -1,0 +1,70 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -37 Y: -6
+
+.WRITER_INFO
+ Name: E NARESH KUMAR
+ WriterId: 88
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: engineer
+ Region: hyderabad
+ Age: 25
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-7-21
+ WritingInProfession: no
+
+.PEN_DOWN
+761 1757 0
+758 1758 0
+755 1759 0
+758 1760 0
+762 1761 0
+767 1761 0
+774 1760 0
+784 1759 0
+796 1757 0
+808 1756 0
+820 1755 0
+832 1755 0
+842 1754 0
+853 1752 0
+862 1751 0
+869 1749 0
+876 1748 0
+883 1747 0
+892 1745 0
+902 1743 0
+913 1741 0
+924 1740 0
+934 1738 0
+944 1736 0
+953 1735 0
+962 1734 0
+971 1733 0
+978 1732 0
+982 1732 0
+985 1732 0
+988 1732 0
+991 1732 0
+989 1739 0
+985 1747 0
+979 1750 0
+.PEN_UP

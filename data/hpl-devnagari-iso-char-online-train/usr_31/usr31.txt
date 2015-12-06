@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = S SRIRAM
+WriterId = 31
+Age = 20
+Gender = MALE
+Hand = RIGHT
+Region = HYDERABAD
+Date = 2007-6-15
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = RARELY
+EducationLevel = HIGH SCHOOL
+WritingInProfession = NO
+Proficiency = GOOD
+Native = FALSE

@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = RAJ BHUSHAN
+WriterId = 41
+Age = 24
+Gender = MALE
+Hand = RIGHT
+Region = KARVAR
+Date = 2007-6-18
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = RESEARCH SCHOLAR
+UsageFreq = ONCE A MONTH
+EducationLevel = POST GRADUATE
+WritingInProfession = NO
+Proficiency = GOOD
+Native = FALSE

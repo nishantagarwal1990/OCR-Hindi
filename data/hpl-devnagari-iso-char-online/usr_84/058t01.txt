@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -198 Y: 102
+
+.WRITER_INFO
+ Name: GOVIND
+ WriterId: 84
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: kannur
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+5371 9830 0
+5368 9827 0
+5369 9823 0
+5370 9820 0
+5370 9817 0
+5370 9814 0
+5370 9811 0
+5370 9807 0
+5370 9804 0
+5368 9807 0
+5368 9810 0
+5371 9813 0
+5374 9814 0
+5377 9813 0
+5380 9812 0
+5385 9809 0
+5389 9807 0
+5392 9804 0
+5394 9801 0
+5395 9798 0
+5395 9795 0
+5391 9792 0
+5388 9791 0
+5385 9791 0
+5381 9793 0
+5377 9797 0
+5374 9800 0
+5372 9804 0
+5371 9807 0
+5374 9807 0
+5373 9803 0
+.PEN_UP

@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "62"
+.H_LINE 1374 2249
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -32 Y: -59
+
+.WRITER_INFO
+ Name: SATYA
+ WriterId: 92
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: average
+ Date: 2007-7-8
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+4007 2057 0
+4006 2054 0
+4009 2056 0
+4012 2059 0
+4017 2063 0
+4023 2069 0
+4032 2075 0
+4044 2082 0
+4062 2090 0
+4081 2097 0
+4101 2103 0
+4121 2108 0
+4138 2112 0
+4154 2116 0
+4165 2119 0
+4171 2122 0
+4174 2124 0
+4177 2125 0
+4175 2122 0
+4173 2119 0
+4170 2119 0
+.PEN_UP

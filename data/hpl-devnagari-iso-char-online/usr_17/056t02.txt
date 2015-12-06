@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "56"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 17 Y: -104
+
+.WRITER_INFO
+ Name: G RAHUL KUMAR
+ WriterId: 17
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: good
+ Date: 2007-6-12
+ WritingInProfession: no
+
+.PEN_DOWN
+2509 9840 0
+2509 9843 0
+2509 9847 0
+2510 9852 0
+2510 9860 0
+2511 9871 0
+2513 9886 0
+2514 9905 0
+2516 9925 0
+2518 9946 0
+2521 9967 0
+2524 9985 0
+2528 10002 0
+2531 10015 0
+2534 10025 0
+2535 10031 0
+2535 10035 0
+2535 10035 0
+.PEN_UP
+.PEN_DOWN
+2416 9766 0
+2419 9769 0
+2422 9772 0
+2427 9778 0
+2430 9786 0
+2439 9795 0
+2447 9803 0
+2454 9810 0
+2460 9817 0
+2468 9823 0
+2472 9827 0
+.PEN_UP

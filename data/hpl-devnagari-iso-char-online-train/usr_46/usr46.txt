@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = P SURESH
+WriterId = 46
+Age = 21
+Gender = MALE
+Hand = RIGHT
+Region = ANAKAPALLI
+Date = 2007-6-20
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = ONCE A MONTH
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = GOOD
+Native = FALSE

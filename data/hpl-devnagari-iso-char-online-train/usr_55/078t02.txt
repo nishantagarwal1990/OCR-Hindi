@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "78"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 45 Y: -80
+
+.WRITER_INFO
+ Name: C VINOD
+ WriterId: 55
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+5321 6594 0
+5323 6591 0
+5326 6593 0
+5328 6599 0
+5330 6607 0
+5331 6617 0
+5331 6627 0
+5328 6639 0
+5323 6650 0
+5317 6660 0
+5308 6666 0
+5300 6668 0
+5292 6667 0
+5285 6662 0
+5281 6655 0
+5278 6645 0
+5278 6634 0
+5283 6622 0
+5291 6612 0
+5302 6600 0
+5320 6592 0
+5342 6587 0
+5368 6584 0
+5396 6583 0
+5424 6577 0
+5446 6580 0
+.PEN_UP
+.PEN_DOWN
+5297 6509 0
+5303 6506 0
+5315 6503 0
+5335 6502 0
+5362 6502 0
+5393 6503 0
+.PEN_UP

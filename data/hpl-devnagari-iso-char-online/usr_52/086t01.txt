@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "86"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 9 Y: -63
+
+.WRITER_INFO
+ Name: SHASHANK
+ WriterId: 52
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+2548 9817 0
+2544 9815 0
+2540 9812 0
+2535 9809 0
+2526 9802 0
+2517 9793 0
+2507 9782 0
+2498 9769 0
+2490 9754 0
+2483 9738 0
+2477 9721 0
+2473 9705 0
+2472 9691 0
+2473 9680 0
+2476 9671 0
+2482 9663 0
+2489 9657 0
+2498 9652 0
+2507 9648 0
+2516 9647 0
+2524 9649 0
+2532 9651 0
+.PEN_UP

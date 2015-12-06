@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 24 Y: -157
+
+.WRITER_INFO
+ Name: AIYAPPA
+ WriterId: 103
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-9-20
+ WritingInProfession: no
+
+.PEN_DOWN
+5548 6597 0
+5549 6586 0
+5550 6580 0
+5551 6576 0
+5552 6572 0
+5553 6569 0
+5554 6578 0
+5554 6592 0
+5554 6612 0
+5555 6636 0
+5556 6661 0
+5557 6684 0
+5558 6704 0
+5559 6719 0
+5560 6731 0
+5561 6740 0
+5561 6746 0
+5561 6750 0
+5558 6753 0
+5554 6758 0
+5551 6757 0
+.PEN_UP
+.PEN_DOWN
+5478 6574 0
+5486 6573 0
+5500 6572 0
+5517 6571 0
+5539 6568 0
+5571 6565 0
+5616 6563 0
+5666 6560 0
+.PEN_UP

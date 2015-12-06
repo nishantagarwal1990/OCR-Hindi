@@ -1,0 +1,48 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "85"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -120 Y: -54
+
+.WRITER_INFO
+ Name: VISWANATHAN A S
+ WriterId: 90
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-8-5
+ WritingInProfession: no
+
+.PEN_DOWN
+900 10007 0
+895 10011 0
+890 10017 0
+884 10026 0
+874 10036 0
+863 10047 0
+850 10058 0
+836 10069 0
+821 10079 0
+808 10087 0
+799 10093 0
+795 10096 0
+795 10096 0
+.PEN_UP

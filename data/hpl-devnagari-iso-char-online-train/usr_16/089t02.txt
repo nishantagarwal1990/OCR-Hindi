@@ -1,0 +1,70 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "89"
+.H_LINE 9500 10374
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 102 Y: -132
+
+.WRITER_INFO
+ Name: ANAND
+ WriterId: 16
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: sikkim
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: good
+ Date: 2007-6-12
+ WritingInProfession: can't say
+
+.PEN_DOWN
+6965 9793 0
+6964 9790 0
+6966 9787 0
+6965 9784 0
+6960 9781 0
+6948 9779 0
+6930 9779 0
+6911 9781 0
+6892 9787 0
+6875 9796 0
+6866 9806 0
+6865 9817 0
+6874 9829 0
+6897 9839 0
+6931 9847 0
+6971 9850 0
+.PEN_UP
+.PEN_DOWN
+6821 9742 0
+6826 9738 0
+6835 9733 0
+6849 9729 0
+6869 9725 0
+6900 9721 0
+6939 9719 0
+6982 9717 0
+7016 9717 0
+7040 9716 0
+7053 9716 0
+7058 9715 0
+7051 9716 0
+7043 9717 0
+7035 9718 0
+7029 9728 0
+7024 9728 0
+.PEN_UP

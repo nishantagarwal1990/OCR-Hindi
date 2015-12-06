@@ -1,0 +1,63 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "64"
+.H_LINE 1374 2249
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 24 Y: -18
+
+.WRITER_INFO
+ Name: GOUTHAM
+ WriterId: 61
+ Hand: right
+ EducationLevel: high school
+ Gender: male
+ Profession: student
+ Region: kerela
+ Age: 19
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-25
+ WritingInProfession: no
+
+.PEN_DOWN
+6880 1844 0
+6877 1842 0
+6876 1839 0
+6876 1836 0
+6878 1833 0
+6878 1830 0
+6880 1833 0
+6881 1836 0
+6882 1840 0
+6883 1846 0
+6884 1855 0
+6885 1865 0
+6885 1875 0
+6886 1886 0
+6888 1899 0
+6890 1914 0
+6891 1929 0
+6892 1946 0
+6892 1963 0
+6892 1979 0
+6893 1993 0
+6894 2006 0
+6894 2013 0
+6894 2018 0
+6895 2021 0
+6894 2017 0
+6894 2010 0
+6892 2001 0
+.PEN_UP

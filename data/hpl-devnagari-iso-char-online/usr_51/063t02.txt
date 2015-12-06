@@ -1,0 +1,68 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 7 Y: -51
+
+.WRITER_INFO
+ Name: UJJWAL
+ WriterId: 51
+ Hand: right
+ EducationLevel: high school
+ Gender: male
+ Profession: student
+ Region: darjeeling
+ Age: 17
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+5516 1942 0
+5513 1942 0
+5512 1946 0
+5510 1950 0
+5509 1954 0
+5510 1958 0
+5514 1958 0
+5518 1953 0
+5521 1948 0
+5523 1943 0
+5523 1938 0
+5523 1935 0
+5521 1932 0
+5517 1931 0
+5514 1931 0
+5509 1933 0
+5503 1937 0
+5498 1941 0
+5495 1944 0
+5493 1947 0
+5494 1950 0
+5497 1952 0
+5504 1952 0
+5510 1951 0
+5517 1947 0
+5521 1943 0
+5524 1940 0
+5524 1937 0
+5521 1935 0
+5517 1934 0
+5514 1934 0
+5512 1931 0
+5513 1937 0
+.PEN_UP

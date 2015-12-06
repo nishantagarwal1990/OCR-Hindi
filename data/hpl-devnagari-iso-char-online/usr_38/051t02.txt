@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 35 Y: -105
+
+.WRITER_INFO
+ Name: BVK BHARADWAJ
+ WriterId: 38
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: bhadrachalam
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+2443 8409 0
+2446 8408 0
+2449 8407 0
+2453 8407 0
+2459 8407 0
+2468 8408 0
+2479 8411 0
+2490 8416 0
+2499 8422 0
+2507 8429 0
+2512 8436 0
+2516 8445 0
+2517 8454 0
+2516 8466 0
+2512 8477 0
+2501 8489 0
+2479 8500 0
+2445 8509 0
+2402 8518 0
+2359 8525 0
+2311 8531 0
+2268 8536 0
+2232 8540 0
+2211 8543 0
+2204 8542 0
+2211 8541 0
+.PEN_UP

@@ -1,0 +1,52 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 50 Y: -73
+
+.WRITER_INFO
+ Name: ABHINAY
+ WriterId: 33
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: good
+ Date: 2007-6-16
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+844 8265 0
+843 8260 0
+844 8253 0
+845 8246 0
+846 8238 0
+849 8229 0
+852 8223 0
+853 8220 0
+855 8217 0
+861 8217 0
+873 8222 0
+889 8229 0
+908 8237 0
+929 8246 0
+947 8257 0
+964 8271 0
+978 8287 0
+.PEN_UP

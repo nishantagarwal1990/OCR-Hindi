@@ -1,0 +1,67 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 11 Y: -82
+
+.WRITER_INFO
+ Name: K GUNARANJAN
+ WriterId: 24
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: poor
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+964 1583 0
+964 1586 0
+966 1589 0
+968 1592 0
+971 1595 0
+976 1599 0
+981 1604 0
+987 1610 0
+996 1616 0
+1006 1620 0
+1015 1624 0
+1023 1626 0
+1033 1626 0
+1044 1623 0
+1056 1618 0
+1067 1611 0
+1079 1604 0
+1088 1598 0
+1095 1590 0
+1099 1585 0
+1100 1582 0
+1098 1579 0
+1093 1578 0
+1087 1575 0
+1083 1577 0
+.PEN_UP
+.PEN_DOWN
+1030 1597 0
+1027 1597 0
+1024 1596 0
+1020 1598 0
+1020 1598 0
+.PEN_UP

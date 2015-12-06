@@ -1,0 +1,55 @@
+@Misc{OpenCV,
+  author = 	 {Jan Erik Solem},
+  title = 	 {Programming Computer Vision with Python},
+  howpublished = {\url{http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf}}}
+
+@misc{goyal2010optical,
+  title={Optical Character Recognition for Handwritten Hindi},
+  author={Goyal, Aditi and Khandelwal, Kartikay and Keshri, Piyush},
+  year={2010},
+  publisher={Standford University}
+}
+
+@article{bhattacharjee2010performance,
+  title={Performance Comparison of SVM and ANN for Handwritten Devnagari Character Recognition},
+  author={Bhattacharjee, Sandhya Arora1 Debotosh and Nasipuri, Mita and Malik, L and Kundu, M and Basu, DK},
+  journal={IJCSI},
+  pages={18},
+  year={2010}
+}
+
+@article{birajdar2015recognition,
+  title={Recognition of Off-Line Handwritten Devanagari Characters using Combinational Feature Extraction},
+  author={Birajdar, Deepali R and Patil, Manasi M},
+  journal={International Journal of Computer Applications},
+  volume={120},
+  number={3},
+  year={2015},
+  publisher={Foundation of Computer Science}
+}
+
+@inproceedings{arora2008combining,
+  title={Combining multiple feature extraction techniques for handwritten devnagari character recognition},
+  author={Arora, Sandhya and Bhattacharjee, Debotosh and Nasipuri, Mita and Basu, Dipak Kumar and Kundu, Mahantapas},
+  booktitle={Industrial and Information Systems, 2008. ICIIS 2008. IEEE Region 10 and the Third international Conference on},
+  pages={1--6},
+  year={2008},
+  organization={IEEE}
+}
+
+@Misc{Data,
+  author = 	 {HP Labs},
+  title = 	 {HP Labs India Indic Handwriting Datasets},
+  howpublished = {\url{http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf}}}
+  
+@Misc{Neural,
+  author = 	 {Neural Networks},
+  title = 	 {Neural Networks for OCR},
+  howpublished = {\url{http://www.codeproject.com/Articles/11285/Neural-Network-OCR}}}
+
+@article{dongre2013devnagari,
+  title={Devnagari Handwritten Numeral Recognition using Geometric Features and Statistical combination Classifier},
+  author={Dongre, Vikas J and Mankar, Vijay H},
+  journal={arXiv preprint arXiv:1310.5619},
+  year={2013}
+}

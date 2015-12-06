@@ -1,0 +1,60 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "86"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -66 Y: -59
+
+.WRITER_INFO
+ Name: AKSHAY
+ WriterId: 77
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+2472 9863 0
+2469 9863 0
+2466 9863 0
+2463 9862 0
+2460 9860 0
+2457 9858 0
+2455 9855 0
+2452 9851 0
+2448 9844 0
+2444 9837 0
+2440 9828 0
+2437 9818 0
+2434 9806 0
+2433 9795 0
+2434 9781 0
+2438 9765 0
+2445 9748 0
+2455 9733 0
+2467 9721 0
+2480 9713 0
+2496 9709 0
+2513 9708 0
+2529 9710 0
+2542 9715 0
+2552 9721 0
+.PEN_UP

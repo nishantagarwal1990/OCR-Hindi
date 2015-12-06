@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -23 Y: -85
+
+.WRITER_INFO
+ Name: KALYAN SAI PREM
+ WriterId: 27
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+5504 8510 0
+5500 8511 0
+5494 8514 0
+5488 8520 0
+5481 8529 0
+5471 8538 0
+5463 8548 0
+5456 8556 0
+5451 8564 0
+5450 8571 0
+5451 8576 0
+5454 8578 0
+5460 8581 0
+5470 8582 0
+5481 8581 0
+5495 8580 0
+5511 8578 0
+5525 8576 0
+5536 8574 0
+5543 8573 0
+5547 8572 0
+5546 8586 0
+.PEN_UP

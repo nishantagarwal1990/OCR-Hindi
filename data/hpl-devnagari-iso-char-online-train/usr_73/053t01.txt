@@ -1,0 +1,70 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -170 Y: 76
+
+.WRITER_INFO
+ Name: SAIRAM
+ WriterId: 73
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-7-3
+ WritingInProfession: no
+
+.PEN_DOWN
+5441 8522 0
+5441 8519 0
+5441 8516 0
+5441 8513 0
+5441 8510 0
+5441 8507 0
+5433 8505 0
+5425 8503 0
+5415 8502 0
+5405 8503 0
+5393 8506 0
+5382 8510 0
+5372 8516 0
+5363 8524 0
+5354 8532 0
+5346 8545 0
+5341 8558 0
+5336 8570 0
+5334 8583 0
+5333 8594 0
+5334 8604 0
+5337 8612 0
+5342 8621 0
+5351 8627 0
+5363 8632 0
+5379 8634 0
+5398 8633 0
+5420 8629 0
+5443 8622 0
+5465 8615 0
+5483 8608 0
+5495 8603 0
+5503 8599 0
+5507 8595 0
+5508 8592 0
+.PEN_UP

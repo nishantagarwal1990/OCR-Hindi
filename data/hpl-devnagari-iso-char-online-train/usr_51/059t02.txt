@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "59"
+.H_LINE 9500 10374
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -15 Y: -90
+
+.WRITER_INFO
+ Name: UJJWAL
+ WriterId: 51
+ Hand: right
+ EducationLevel: high school
+ Gender: male
+ Profession: student
+ Region: darjeeling
+ Age: 17
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+6833 9759 0
+6830 9759 0
+6827 9761 0
+6825 9766 0
+6824 9771 0
+6823 9776 0
+6822 9782 0
+6822 9788 0
+6824 9794 0
+6826 9799 0
+6831 9803 0
+6837 9805 0
+6847 9806 0
+6863 9804 0
+6882 9799 0
+6900 9793 0
+6914 9787 0
+6924 9780 0
+6931 9775 0
+6936 9770 0
+6939 9765 0
+6942 9760 0
+6944 9756 0
+6945 9753 0
+6946 9748 0
+6946 9752 0
+.PEN_UP

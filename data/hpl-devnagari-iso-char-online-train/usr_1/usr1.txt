@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = PRAVEEN
+WriterId = 1
+Age = 23
+Gender = MALE
+Hand = RIGHT
+Region = HYDERABAD
+Date = 2007-6-6
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = RARELY
+EducationLevel = POST GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

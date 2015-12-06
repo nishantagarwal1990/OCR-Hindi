@@ -1,0 +1,71 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "55"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -24 Y: -110
+
+.WRITER_INFO
+ Name: V CHANDRASEKHARAN
+ WriterId: 45
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: professor
+ Region: puttaparthi
+ Age: 53
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-20
+ WritingInProfession: no
+
+.PEN_DOWN
+750 9639 0
+750 9643 0
+754 9651 0
+761 9662 0
+771 9678 0
+786 9695 0
+804 9712 0
+825 9728 0
+845 9744 0
+865 9758 0
+882 9770 0
+896 9780 0
+906 9788 0
+912 9792 0
+916 9794 0
+918 9791 0
+918 9781 0
+917 9771 0
+.PEN_UP
+.PEN_DOWN
+899 9624 0
+899 9627 0
+901 9631 0
+906 9636 0
+914 9647 0
+925 9661 0
+938 9680 0
+951 9700 0
+963 9720 0
+974 9739 0
+983 9758 0
+991 9773 0
+996 9783 0
+1000 9790 0
+1002 9794 0
+1002 9794 0
+.PEN_UP

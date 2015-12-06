@@ -1,0 +1,53 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 10 Y: -116
+
+.WRITER_INFO
+ Name: ARUN R
+ WriterId: 4
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: madurai
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-6
+ WritingInProfession: no
+
+.PEN_DOWN
+5404 9768 0
+5395 9771 0
+5389 9774 0
+5386 9776 0
+5393 9777 0
+5402 9774 0
+5410 9770 0
+5418 9765 0
+5421 9760 0
+5422 9756 0
+5420 9752 0
+5416 9750 0
+5408 9749 0
+5400 9749 0
+5394 9751 0
+5390 9755 0
+5388 9760 0
+5394 9764 0
+.PEN_UP

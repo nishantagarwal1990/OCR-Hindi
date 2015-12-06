@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "59"
+.H_LINE 9500 10374
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 161 Y: 92
+
+.WRITER_INFO
+ Name: ADITYA
+ WriterId: 34
+ Hand: left
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: australia
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: average
+ Date: 2007-6-16
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+6807 9756 0
+6810 9758 0
+6813 9760 0
+6817 9762 0
+6820 9763 0
+6824 9763 0
+6830 9765 0
+6846 9767 0
+6863 9770 0
+6879 9773 0
+6896 9775 0
+6910 9776 0
+6921 9776 0
+6929 9775 0
+6935 9773 0
+6940 9771 0
+6943 9769 0
+6945 9765 0
+6947 9761 0
+6948 9758 0
+6948 9753 0
+6942 9747 0
+.PEN_UP

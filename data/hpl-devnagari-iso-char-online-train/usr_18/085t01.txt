@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "85"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 38 Y: -119
+
+.WRITER_INFO
+ Name: AJIT PADYANA
+ WriterId: 18
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mangalore
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-13
+ WritingInProfession: no
+
+.PEN_DOWN
+974 9984 0
+971 9983 0
+967 9986 0
+961 9991 0
+954 9999 0
+946 10009 0
+935 10021 0
+923 10033 0
+910 10044 0
+899 10053 0
+891 10060 0
+886 10065 0
+882 10070 0
+879 10073 0
+877 10077 0
+874 10080 0
+871 10083 0
+868 10085 0
+869 10082 0
+870 10078 0
+873 10072 0
+.PEN_UP

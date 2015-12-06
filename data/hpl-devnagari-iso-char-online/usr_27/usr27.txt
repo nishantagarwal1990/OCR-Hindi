@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = KALYAN SAI PREM
+WriterId = 27
+Age = 23
+Gender = MALE
+Hand = RIGHT
+Region = HYDERABAD
+Date = 2007-6-14
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = ONCE A MONTH
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

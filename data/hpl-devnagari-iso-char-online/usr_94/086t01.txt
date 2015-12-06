@@ -1,0 +1,64 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "86"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -128 Y: -86
+
+.WRITER_INFO
+ Name: BHARAT KRISHNA
+ WriterId: 94
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: average
+ Date: 2007-7-8
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+2523 9801 0
+2520 9802 0
+2517 9802 0
+2514 9801 0
+2511 9800 0
+2508 9798 0
+2504 9795 0
+2499 9790 0
+2493 9785 0
+2486 9778 0
+2478 9770 0
+2469 9757 0
+2460 9743 0
+2452 9729 0
+2444 9714 0
+2437 9701 0
+2433 9688 0
+2430 9678 0
+2429 9670 0
+2429 9663 0
+2432 9654 0
+2437 9645 0
+2444 9637 0
+2455 9630 0
+2468 9625 0
+2482 9622 0
+2497 9623 0
+2511 9626 0
+2522 9632 0
+.PEN_UP

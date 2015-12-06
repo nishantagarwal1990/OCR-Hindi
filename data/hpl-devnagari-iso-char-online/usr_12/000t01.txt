@@ -1,0 +1,58 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -30 Y: -115
+
+.WRITER_INFO
+ Name: T. V. SIVA KUMAR
+ WriterId: 12
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: tanuku
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+606 1811 0
+612 1811 0
+619 1812 0
+630 1812 0
+648 1812 0
+669 1813 0
+692 1812 0
+716 1812 0
+740 1813 0
+770 1814 0
+806 1815 0
+848 1816 0
+889 1817 0
+925 1818 0
+951 1820 0
+973 1821 0
+990 1822 0
+1006 1822 0
+1019 1822 0
+1028 1822 0
+1033 1822 0
+1036 1823 0
+1064 1821 0
+.PEN_UP

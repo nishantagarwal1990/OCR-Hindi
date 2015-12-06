@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 59 Y: -178
+
+.WRITER_INFO
+ Name: GOKUL KRISHNA
+ WriterId: 69
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-27
+ WritingInProfession: no
+
+.PEN_DOWN
+5581 8471 0
+5582 8468 0
+5581 8465 0
+5578 8463 0
+5572 8463 0
+5566 8463 0
+5560 8464 0
+5552 8467 0
+5545 8472 0
+5537 8479 0
+5529 8487 0
+5522 8495 0
+5517 8502 0
+5515 8510 0
+5516 8518 0
+5519 8524 0
+5526 8530 0
+5537 8534 0
+5551 8536 0
+5566 8537 0
+5585 8537 0
+5604 8537 0
+5622 8537 0
+5636 8537 0
+5646 8537 0
+5653 8537 0
+5657 8537 0
+5660 8538 0
+5661 8542 0
+5661 8542 0
+.PEN_UP

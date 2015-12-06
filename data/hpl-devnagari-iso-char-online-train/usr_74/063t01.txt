@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 1 Y: -37
+
+.WRITER_INFO
+ Name: B PAVAN
+ WriterId: 74
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+5558 1951 0
+5554 1949 0
+5549 1949 0
+5546 1951 0
+5541 1953 0
+5537 1957 0
+5535 1960 0
+5535 1965 0
+5535 1968 0
+5534 1972 0
+5535 1976 0
+5539 1974 0
+5540 1970 0
+5540 1964 0
+5541 1960 0
+5537 1961 0
+5536 1965 0
+5534 1968 0
+5532 1972 0
+5533 1976 0
+5536 1975 0
+5539 1975 0
+5541 1972 0
+5546 1969 0
+5548 1961 0
+5552 1955 0
+5555 1949 0
+5554 1946 0
+5551 1946 0
+5547 1952 0
+5545 1955 0
+.PEN_UP

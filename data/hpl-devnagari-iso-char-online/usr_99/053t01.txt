@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -32 Y: -134
+
+.WRITER_INFO
+ Name: E RAGHU
+ WriterId: 99
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-8-17
+ WritingInProfession: no
+
+.PEN_DOWN
+5472 8482 0
+5474 8478 0
+5475 8475 0
+5475 8472 0
+5474 8469 0
+5472 8466 0
+5469 8464 0
+5465 8463 0
+5461 8462 0
+5456 8463 0
+5448 8465 0
+5436 8472 0
+5424 8482 0
+5415 8494 0
+5410 8506 0
+5408 8519 0
+5410 8530 0
+5418 8539 0
+5429 8546 0
+5442 8550 0
+5454 8551 0
+5465 8551 0
+5475 8549 0
+5484 8546 0
+5493 8543 0
+5502 8537 0
+.PEN_UP

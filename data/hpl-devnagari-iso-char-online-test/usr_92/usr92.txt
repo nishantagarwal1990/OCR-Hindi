@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = SATYA
+WriterId = 92
+Age = 14
+Gender = MALE
+Hand = RIGHT
+Region = HYDERABAD
+Date = 2007-7-8
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = EVERY DAY
+EducationLevel = PRIMARY SCHOOL
+WritingInProfession = YES, BUT LIMITED
+Proficiency = AVERAGE
+Native = FALSE

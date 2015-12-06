@@ -1,0 +1,59 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 7 Y: -123
+
+.WRITER_INFO
+ Name: GOVIND PRATAP SINGH
+ WriterId: 102
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: punjab
+ Age: 26
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-7-20
+ WritingInProfession: no
+
+.PEN_DOWN
+708 1859 0
+705 1858 0
+708 1857 0
+716 1857 0
+727 1857 0
+743 1856 0
+762 1855 0
+785 1854 0
+810 1852 0
+840 1850 0
+872 1848 0
+903 1846 0
+933 1845 0
+960 1844 0
+982 1843 0
+998 1843 0
+1010 1843 0
+1018 1842 0
+1024 1842 0
+1027 1842 0
+1022 1841 0
+1019 1841 0
+1016 1841 0
+1014 1836 0
+.PEN_UP

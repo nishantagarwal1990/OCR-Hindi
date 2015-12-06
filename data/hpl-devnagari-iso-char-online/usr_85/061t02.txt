@@ -1,0 +1,70 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "61"
+.H_LINE 1374 2249
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -55 Y: -74
+
+.WRITER_INFO
+ Name: S GANESH
+ WriterId: 85
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+2561 1772 0
+2565 1772 0
+2570 1771 0
+2568 1775 0
+2564 1779 0
+2557 1782 0
+2547 1785 0
+2538 1787 0
+2530 1788 0
+2526 1787 0
+2525 1783 0
+2526 1779 0
+2530 1775 0
+2539 1772 0
+2552 1767 0
+2568 1771 0
+.PEN_UP
+.PEN_DOWN
+2536 1863 0
+2543 1862 0
+2555 1863 0
+2568 1865 0
+2579 1868 0
+2585 1873 0
+2588 1878 0
+2586 1885 0
+2580 1892 0
+2569 1898 0
+2558 1900 0
+2549 1899 0
+2544 1896 0
+2541 1890 0
+2542 1881 0
+2547 1870 0
+2557 1861 0
+.PEN_UP

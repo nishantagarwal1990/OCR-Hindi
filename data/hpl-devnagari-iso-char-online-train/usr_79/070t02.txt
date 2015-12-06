@@ -1,0 +1,77 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "70"
+.H_LINE 4624 5499
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -29 Y: -141
+
+.WRITER_INFO
+ Name: SAI PRASHANT
+ WriterId: 79
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bheemavaram
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+759 4995 0
+758 4991 0
+757 4988 0
+757 4995 0
+757 5005 0
+758 5018 0
+760 5030 0
+764 5042 0
+770 5056 0
+779 5068 0
+791 5078 0
+804 5085 0
+820 5088 0
+839 5087 0
+857 5083 0
+871 5078 0
+883 5071 0
+894 5060 0
+902 5050 0
+905 5038 0
+908 5026 0
+908 5014 0
+907 5004 0
+904 4996 0
+900 4992 0
+903 4995 0
+908 4997 0
+916 4998 0
+928 4997 0
+944 4996 0
+960 4988 0
+974 4983 0
+.PEN_UP
+.PEN_DOWN
+864 4905 0
+869 4905 0
+878 4904 0
+892 4902 0
+911 4899 0
+934 4894 0
+959 4887 0
+984 4875 0
+.PEN_UP

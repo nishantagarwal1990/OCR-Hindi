@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -15 Y: -130
+
+.WRITER_INFO
+ Name: ANUJ SHUKLA
+ WriterId: 78
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bhopal
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+5534 6565 0
+5531 6564 0
+5531 6567 0
+5531 6570 0
+5531 6573 0
+5531 6577 0
+5531 6582 0
+5531 6588 0
+5531 6596 0
+5532 6607 0
+5532 6622 0
+5532 6639 0
+5533 6661 0
+5534 6685 0
+5534 6708 0
+5535 6729 0
+5536 6746 0
+5536 6761 0
+5537 6771 0
+5538 6779 0
+5539 6783 0
+5541 6778 0
+.PEN_UP

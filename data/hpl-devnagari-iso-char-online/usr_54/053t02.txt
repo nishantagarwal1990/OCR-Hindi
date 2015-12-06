@@ -1,0 +1,63 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 34 Y: -102
+
+.WRITER_INFO
+ Name: M SAI RAGHU RAM
+ WriterId: 54
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: good
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+5467 8443 0
+5468 8440 0
+5469 8436 0
+5469 8433 0
+5469 8429 0
+5467 8425 0
+5464 8422 0
+5459 8420 0
+5452 8420 0
+5444 8422 0
+5435 8427 0
+5426 8433 0
+5419 8442 0
+5414 8453 0
+5409 8467 0
+5403 8482 0
+5398 8496 0
+5395 8512 0
+5393 8525 0
+5393 8536 0
+5396 8545 0
+5401 8552 0
+5410 8557 0
+5425 8560 0
+5445 8560 0
+5470 8557 0
+5499 8550 0
+5526 8540 0
+.PEN_UP

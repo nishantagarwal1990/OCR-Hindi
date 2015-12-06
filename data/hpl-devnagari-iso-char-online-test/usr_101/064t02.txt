@@ -1,0 +1,50 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "64"
+.H_LINE 1374 2249
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -3 Y: -243
+
+.WRITER_INFO
+ Name: SHREEDHARA B
+ WriterId: 101
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: teacher
+ Region: mangalore
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-7-20
+ WritingInProfession: no
+
+.PEN_DOWN
+7009 1649 0
+7009 1645 0
+7010 1641 0
+7011 1638 0
+7010 1643 0
+7009 1655 0
+7007 1671 0
+7005 1695 0
+7002 1725 0
+7000 1757 0
+6997 1792 0
+6995 1825 0
+6995 1853 0
+6998 1876 0
+7002 1894 0
+.PEN_UP

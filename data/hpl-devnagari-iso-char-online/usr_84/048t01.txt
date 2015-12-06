@@ -1,0 +1,70 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -158 Y: 75
+
+.WRITER_INFO
+ Name: GOVIND
+ WriterId: 84
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: kannur
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+5361 6656 0
+5358 6656 0
+5355 6656 0
+5353 6659 0
+5352 6662 0
+5351 6665 0
+5350 6668 0
+5350 6671 0
+5350 6675 0
+5350 6680 0
+5350 6687 0
+5350 6693 0
+5350 6699 0
+5350 6707 0
+5351 6716 0
+5352 6726 0
+5354 6738 0
+5356 6749 0
+5357 6760 0
+5358 6772 0
+5360 6785 0
+5361 6798 0
+5362 6811 0
+5363 6825 0
+5364 6837 0
+5365 6847 0
+5366 6854 0
+5366 6859 0
+5367 6863 0
+5367 6866 0
+5368 6870 0
+5368 6873 0
+5368 6876 0
+5368 6879 0
+5360 6871 0
+.PEN_UP

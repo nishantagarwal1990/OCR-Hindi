@@ -1,0 +1,67 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "67"
+.H_LINE 2999 3874
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 25 Y: -63
+
+.WRITER_INFO
+ Name: N RAMPRASAD
+ WriterId: 8
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: madras
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+3839 3401 0
+3838 3407 0
+3839 3417 0
+3841 3430 0
+3843 3448 0
+3846 3467 0
+3849 3486 0
+3852 3506 0
+3855 3523 0
+3856 3538 0
+3856 3551 0
+3855 3561 0
+3853 3566 0
+3851 3571 0
+3848 3574 0
+3843 3577 0
+3833 3579 0
+3817 3580 0
+3795 3579 0
+3777 3577 0
+3762 3573 0
+.PEN_UP
+.PEN_DOWN
+3793 3389 0
+3790 3389 0
+3787 3389 0
+3786 3386 0
+3788 3382 0
+3794 3377 0
+3816 3374 0
+3852 3373 0
+3897 3375 0
+.PEN_UP

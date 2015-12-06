@@ -1,0 +1,73 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "50"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -20 Y: -68
+
+.WRITER_INFO
+ Name: GMBS SUNEEL KUMAR
+ WriterId: 26
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: anakapalli
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+829 8182 0
+825 8176 0
+821 8166 0
+818 8154 0
+818 8143 0
+821 8133 0
+828 8125 0
+840 8118 0
+858 8113 0
+877 8111 0
+894 8112 0
+908 8116 0
+920 8127 0
+930 8143 0
+937 8167 0
+941 8197 0
+941 8231 0
+940 8262 0
+939 8289 0
+938 8311 0
+938 8329 0
+939 8341 0
+941 8349 0
+943 8353 0
+947 8349 0
+.PEN_UP
+.PEN_DOWN
+829 8172 0
+823 8171 0
+819 8171 0
+822 8174 0
+834 8176 0
+858 8177 0
+890 8177 0
+926 8174 0
+958 8171 0
+984 8170 0
+1005 8169 0
+.PEN_UP

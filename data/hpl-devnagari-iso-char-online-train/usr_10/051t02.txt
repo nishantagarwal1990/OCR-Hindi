@@ -1,0 +1,63 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -18 Y: -150
+
+.WRITER_INFO
+ Name: R VISHNU VARDHAN
+ WriterId: 10
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: manthani
+ Age: 26
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+2423 8446 0
+2424 8443 0
+2426 8440 0
+2428 8437 0
+2432 8434 0
+2439 8432 0
+2450 8433 0
+2462 8436 0
+2474 8442 0
+2486 8451 0
+2496 8464 0
+2505 8478 0
+2513 8492 0
+2519 8505 0
+2521 8517 0
+2518 8527 0
+2511 8538 0
+2494 8549 0
+2469 8556 0
+2436 8561 0
+2393 8564 0
+2347 8566 0
+2307 8567 0
+2273 8567 0
+2251 8567 0
+2238 8567 0
+2232 8567 0
+2235 8568 0
+.PEN_UP

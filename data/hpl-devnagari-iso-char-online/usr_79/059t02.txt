@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "59"
+.H_LINE 9500 10374
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -24 Y: -157
+
+.WRITER_INFO
+ Name: SAI PRASHANT
+ WriterId: 79
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bheemavaram
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+6856 9664 0
+6857 9661 0
+6858 9665 0
+6858 9671 0
+6859 9678 0
+6861 9686 0
+6865 9695 0
+6869 9703 0
+6874 9710 0
+6879 9717 0
+6885 9721 0
+6891 9724 0
+6901 9726 0
+6910 9728 0
+6918 9728 0
+6926 9726 0
+6938 9721 0
+6950 9711 0
+6964 9696 0
+6979 9674 0
+6996 9645 0
+.PEN_UP

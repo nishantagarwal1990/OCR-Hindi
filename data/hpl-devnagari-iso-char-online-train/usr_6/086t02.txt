@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "86"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -70 Y: -51
+
+.WRITER_INFO
+ Name: SIVARAMARAJU
+ WriterId: 6
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: puttaparthi
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+2497 9867 0
+2500 9868 0
+2503 9868 0
+2506 9869 0
+2509 9871 0
+2505 9869 0
+2501 9865 0
+2495 9860 0
+2489 9855 0
+2484 9849 0
+2479 9844 0
+2475 9838 0
+2472 9831 0
+2471 9822 0
+2473 9811 0
+2478 9799 0
+2486 9788 0
+2497 9777 0
+2510 9769 0
+2525 9762 0
+2538 9757 0
+2548 9753 0
+.PEN_UP

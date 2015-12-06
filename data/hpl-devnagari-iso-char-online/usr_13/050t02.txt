@@ -1,0 +1,64 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "50"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -24 Y: -58
+
+.WRITER_INFO
+ Name: K SRI CHARAN
+ WriterId: 13
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: puttaparthi
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-12
+ WritingInProfession: no
+
+.PEN_DOWN
+777 8190 0
+775 8185 0
+773 8175 0
+773 8162 0
+773 8149 0
+775 8137 0
+779 8124 0
+787 8113 0
+798 8104 0
+813 8097 0
+832 8093 0
+852 8094 0
+868 8098 0
+885 8109 0
+898 8127 0
+907 8157 0
+912 8199 0
+912 8246 0
+910 8290 0
+906 8328 0
+901 8356 0
+898 8381 0
+894 8402 0
+891 8415 0
+889 8424 0
+888 8429 0
+889 8424 0
+890 8417 0
+891 8408 0
+.PEN_UP

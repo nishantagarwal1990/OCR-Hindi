@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 45 Y: -118
+
+.WRITER_INFO
+ Name: K SRI CHARAN
+ WriterId: 13
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: puttaparthi
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-12
+ WritingInProfession: no
+
+.PEN_DOWN
+5555 1893 0
+5552 1893 0
+5549 1894 0
+5545 1896 0
+5541 1899 0
+5537 1905 0
+5533 1911 0
+5531 1915 0
+5531 1918 0
+5532 1921 0
+5535 1922 0
+5538 1919 0
+5540 1915 0
+5542 1910 0
+5543 1905 0
+5544 1901 0
+5544 1898 0
+5542 1902 0
+5541 1907 0
+5540 1913 0
+5539 1917 0
+5541 1914 0
+5544 1909 0
+5545 1905 0
+5546 1902 0
+5546 1902 0
+.PEN_UP

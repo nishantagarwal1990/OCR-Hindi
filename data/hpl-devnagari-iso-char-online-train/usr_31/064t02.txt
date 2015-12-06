@@ -1,0 +1,51 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "64"
+.H_LINE 1374 2249
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 100 Y: -83
+
+.WRITER_INFO
+ Name: S SRIRAM
+ WriterId: 31
+ Hand: right
+ EducationLevel: high school
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: good
+ Date: 2007-6-15
+ WritingInProfession: no
+
+.PEN_DOWN
+6822 1780 0
+6821 1786 0
+6820 1797 0
+6819 1813 0
+6819 1831 0
+6819 1851 0
+6818 1872 0
+6817 1894 0
+6816 1922 0
+6816 1949 0
+6817 1974 0
+6818 1996 0
+6819 2012 0
+6819 2022 0
+6819 2027 0
+6816 2009 0
+.PEN_UP

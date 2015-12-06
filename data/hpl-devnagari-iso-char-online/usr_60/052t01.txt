@@ -1,0 +1,64 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "52"
+.H_LINE 7874 8750
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -78 Y: -169
+
+.WRITER_INFO
+ Name: GANESH
+ WriterId: 60
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mahbubnagar
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-25
+ WritingInProfession: no
+
+.PEN_DOWN
+3994 8464 0
+3991 8466 0
+3989 8469 0
+3986 8472 0
+3982 8475 0
+3978 8477 0
+3974 8479 0
+3971 8480 0
+3968 8480 0
+3965 8478 0
+3961 8475 0
+3956 8470 0
+3952 8463 0
+3950 8454 0
+3949 8444 0
+3952 8436 0
+3955 8431 0
+3960 8428 0
+3966 8429 0
+3975 8433 0
+3986 8441 0
+3999 8452 0
+4012 8464 0
+4027 8478 0
+4042 8492 0
+4065 8505 0
+4091 8517 0
+4120 8528 0
+4151 8535 0
+.PEN_UP

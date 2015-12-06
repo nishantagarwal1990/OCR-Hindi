@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "64"
+.H_LINE 1374 2249
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 53 Y: -89
+
+.WRITER_INFO
+ Name: N UDAY KIRAN
+ WriterId: 48
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 26
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-20
+ WritingInProfession: no
+
+.PEN_DOWN
+6986 1636 0
+6982 1633 0
+6979 1630 0
+6978 1627 0
+6978 1624 0
+6978 1621 0
+6978 1627 0
+6979 1635 0
+6980 1645 0
+6981 1656 0
+6981 1670 0
+6981 1689 0
+6981 1714 0
+6981 1737 0
+6982 1760 0
+6983 1782 0
+6985 1801 0
+6987 1816 0
+6989 1831 0
+6991 1845 0
+6991 1856 0
+6992 1866 0
+6992 1876 0
+6991 1882 0
+6990 1885 0
+6992 1881 0
+6993 1876 0
+6993 1872 0
+6993 1869 0
+6993 1869 0
+.PEN_UP

@@ -1,0 +1,59 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -40 Y: -47
+
+.WRITER_INFO
+ Name: GOVIND
+ WriterId: 84
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: kannur
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+869 1796 0
+859 1796 0
+852 1796 0
+847 1796 0
+842 1797 0
+838 1797 0
+834 1797 0
+837 1797 0
+843 1797 0
+854 1797 0
+869 1796 0
+888 1795 0
+909 1793 0
+931 1791 0
+953 1788 0
+978 1785 0
+1004 1783 0
+1034 1780 0
+1061 1778 0
+1082 1777 0
+1096 1775 0
+1104 1774 0
+1107 1773 0
+1107 1773 0
+.PEN_UP

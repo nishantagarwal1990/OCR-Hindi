@@ -1,0 +1,62 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 14 Y: -66
+
+.WRITER_INFO
+ Name: N RAMPRASAD
+ WriterId: 8
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: madras
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+2402 8488 0
+2401 8485 0
+2399 8482 0
+2400 8478 0
+2403 8473 0
+2409 8468 0
+2414 8465 0
+2421 8463 0
+2430 8463 0
+2448 8465 0
+2466 8472 0
+2481 8483 0
+2493 8497 0
+2503 8512 0
+2511 8528 0
+2517 8543 0
+2520 8557 0
+2520 8567 0
+2520 8574 0
+2517 8581 0
+2508 8587 0
+2492 8591 0
+2468 8594 0
+2436 8597 0
+2399 8600 0
+2363 8603 0
+2332 8608 0
+.PEN_UP

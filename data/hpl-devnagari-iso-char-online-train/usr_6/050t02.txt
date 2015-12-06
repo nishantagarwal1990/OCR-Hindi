@@ -1,0 +1,70 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "50"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -43 Y: -88
+
+.WRITER_INFO
+ Name: SIVARAMARAJU
+ WriterId: 6
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: puttaparthi
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+864 8220 0
+861 8217 0
+858 8214 0
+855 8208 0
+852 8201 0
+850 8193 0
+849 8183 0
+850 8173 0
+853 8162 0
+857 8150 0
+864 8134 0
+876 8119 0
+892 8105 0
+911 8093 0
+932 8085 0
+948 8080 0
+961 8079 0
+971 8083 0
+981 8092 0
+991 8106 0
+1001 8127 0
+1009 8156 0
+1016 8187 0
+1020 8222 0
+1022 8260 0
+1021 8292 0
+1019 8317 0
+1017 8339 0
+1015 8359 0
+1012 8377 0
+1009 8392 0
+1006 8402 0
+1003 8408 0
+1002 8411 0
+998 8406 0
+.PEN_UP

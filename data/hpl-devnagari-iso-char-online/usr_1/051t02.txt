@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 13 Y: -161
+
+.WRITER_INFO
+ Name: PRAVEEN
+ WriterId: 1
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-6
+ WritingInProfession: no
+
+.PEN_DOWN
+2404 8424 0
+2394 8420 0
+2388 8416 0
+2385 8413 0
+2392 8411 0
+2405 8411 0
+2424 8414 0
+2443 8419 0
+2458 8426 0
+2466 8438 0
+2468 8453 0
+2462 8473 0
+2447 8492 0
+2423 8510 0
+2392 8527 0
+2360 8539 0
+2334 8546 0
+2311 8548 0
+2284 8546 0
+2261 8539 0
+2241 8530 0
+2231 8518 0
+.PEN_UP

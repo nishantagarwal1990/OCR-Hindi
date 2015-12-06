@@ -1,0 +1,67 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "52"
+.H_LINE 7874 8750
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -117 Y: -79
+
+.WRITER_INFO
+ Name: K GUNARANJAN
+ WriterId: 24
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: poor
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+3959 8442 0
+3956 8443 0
+3953 8445 0
+3947 8449 0
+3940 8452 0
+3932 8454 0
+3924 8457 0
+3916 8458 0
+3911 8457 0
+3907 8456 0
+3905 8453 0
+3904 8446 0
+3904 8437 0
+3906 8428 0
+3910 8420 0
+3916 8415 0
+3923 8411 0
+3932 8411 0
+3944 8413 0
+3956 8416 0
+3970 8423 0
+3987 8432 0
+4004 8442 0
+4022 8451 0
+4038 8460 0
+4052 8468 0
+4064 8474 0
+4075 8478 0
+4085 8479 0
+4092 8478 0
+4098 8474 0
+4105 8467 0
+.PEN_UP

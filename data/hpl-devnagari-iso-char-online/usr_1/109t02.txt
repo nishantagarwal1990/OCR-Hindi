@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "109"
+.H_LINE 6249 7124
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 64 Y: -176
+
+.WRITER_INFO
+ Name: PRAVEEN
+ WriterId: 1
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-6
+ WritingInProfession: no
+
+.PEN_DOWN
+7013 6675 0
+7007 6679 0
+7001 6683 0
+6997 6685 0
+6993 6686 0
+6989 6687 0
+6985 6688 0
+6976 6688 0
+6960 6687 0
+6944 6685 0
+6928 6682 0
+6919 6679 0
+6915 6676 0
+6914 6673 0
+6916 6668 0
+6921 6660 0
+6936 6649 0
+6955 6639 0
+6977 6631 0
+6998 6629 0
+7019 6633 0
+7036 6642 0
+7053 6654 0
+7066 6665 0
+7076 6675 0
+7084 6683 0
+7089 6688 0
+7092 6692 0
+7095 6694 0
+7100 6697 0
+7108 6698 0
+.PEN_UP

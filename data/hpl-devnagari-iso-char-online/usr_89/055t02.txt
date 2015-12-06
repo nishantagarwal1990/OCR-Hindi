@@ -1,0 +1,63 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "55"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -93 Y: -149
+
+.WRITER_INFO
+ Name: RAJESH BABU
+ WriterId: 89
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: hyderabad
+ Age: 27
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-8-5
+ WritingInProfession: no
+
+.PEN_DOWN
+809 9663 0
+806 9662 0
+806 9666 0
+808 9673 0
+814 9684 0
+825 9697 0
+837 9711 0
+851 9724 0
+864 9736 0
+876 9748 0
+887 9757 0
+897 9764 0
+905 9771 0
+912 9775 0
+919 9777 0
+.PEN_UP
+.PEN_DOWN
+956 9653 0
+954 9648 0
+952 9645 0
+949 9650 0
+947 9661 0
+944 9677 0
+941 9699 0
+936 9721 0
+930 9744 0
+924 9767 0
+916 9787 0
+.PEN_UP

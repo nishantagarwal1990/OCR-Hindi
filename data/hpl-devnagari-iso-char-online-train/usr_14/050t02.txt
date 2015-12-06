@@ -1,0 +1,80 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "50"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 34 Y: -71
+
+.WRITER_INFO
+ Name: PRAKASH VARMA
+ WriterId: 14
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: vizayanagaram
+ Age: 25
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-12
+ WritingInProfession: can't say
+
+.PEN_DOWN
+909 8299 0
+906 8297 0
+904 8294 0
+906 8300 0
+909 8311 0
+914 8324 0
+919 8337 0
+923 8350 0
+929 8365 0
+933 8381 0
+936 8398 0
+938 8416 0
+939 8434 0
+939 8449 0
+938 8460 0
+938 8467 0
+937 8463 0
+937 8455 0
+937 8443 0
+938 8429 0
+939 8412 0
+940 8393 0
+940 8374 0
+942 8343 0
+947 8309 0
+953 8273 0
+955 8235 0
+953 8204 0
+946 8179 0
+934 8160 0
+921 8146 0
+905 8136 0
+888 8131 0
+870 8129 0
+855 8130 0
+841 8136 0
+830 8149 0
+819 8171 0
+811 8199 0
+807 8227 0
+807 8253 0
+811 8276 0
+822 8293 0
+844 8297 0
+875 8303 0
+.PEN_UP

@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = ADITYA
+WriterId = 34
+Age = 14
+Gender = MALE
+Hand = LEFT
+Region = AUSTRALIA
+Date = 2007-6-16
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = EVERY DAY
+EducationLevel = PRIMARY SCHOOL
+WritingInProfession = YES, BUT LIMITED
+Proficiency = AVERAGE
+Native = FALSE

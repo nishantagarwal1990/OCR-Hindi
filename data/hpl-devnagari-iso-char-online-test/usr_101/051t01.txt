@@ -1,0 +1,68 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -203 Y: -31
+
+.WRITER_INFO
+ Name: SHREEDHARA B
+ WriterId: 101
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: teacher
+ Region: mangalore
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-7-20
+ WritingInProfession: no
+
+.PEN_DOWN
+2327 8533 0
+2327 8528 0
+2328 8524 0
+2328 8520 0
+2327 8515 0
+2327 8511 0
+2327 8507 0
+2327 8503 0
+2328 8500 0
+2332 8498 0
+2336 8499 0
+2340 8502 0
+2345 8508 0
+2350 8516 0
+2356 8526 0
+2363 8538 0
+2369 8551 0
+2374 8563 0
+2378 8576 0
+2381 8588 0
+2381 8599 0
+2378 8609 0
+2372 8617 0
+2362 8625 0
+2349 8632 0
+2335 8637 0
+2318 8640 0
+2298 8639 0
+2276 8637 0
+2257 8632 0
+2241 8626 0
+2228 8619 0
+2221 8611 0
+.PEN_UP

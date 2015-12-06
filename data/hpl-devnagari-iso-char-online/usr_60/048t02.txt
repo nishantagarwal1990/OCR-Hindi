@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 36 Y: -151
+
+.WRITER_INFO
+ Name: GANESH
+ WriterId: 60
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mahbubnagar
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-25
+ WritingInProfession: no
+
+.PEN_DOWN
+5409 6606 0
+5410 6600 0
+5411 6591 0
+5413 6582 0
+5415 6573 0
+5416 6567 0
+5417 6564 0
+5419 6570 0
+5423 6584 0
+5428 6603 0
+5432 6628 0
+5436 6656 0
+5439 6684 0
+5444 6711 0
+5449 6734 0
+5453 6753 0
+5456 6767 0
+5458 6781 0
+5460 6795 0
+5463 6812 0
+5467 6831 0
+5474 6849 0
+.PEN_UP

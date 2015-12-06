@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -38 Y: -136
+
+.WRITER_INFO
+ Name: E RAGHU
+ WriterId: 99
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-8-17
+ WritingInProfession: no
+
+.PEN_DOWN
+962 1572 0
+960 1568 0
+957 1563 0
+954 1559 0
+951 1557 0
+950 1560 0
+951 1566 0
+954 1576 0
+958 1587 0
+963 1599 0
+969 1611 0
+977 1621 0
+986 1628 0
+997 1630 0
+1008 1628 0
+1021 1623 0
+1034 1617 0
+1044 1610 0
+1052 1603 0
+1056 1594 0
+1059 1584 0
+1060 1575 0
+1059 1568 0
+1057 1563 0
+1053 1560 0
+1048 1556 0
+1042 1554 0
+1035 1553 0
+1027 1554 0
+1021 1556 0
+.PEN_UP
+.PEN_DOWN
+974 1522 0
+974 1522 0
+.PEN_UP

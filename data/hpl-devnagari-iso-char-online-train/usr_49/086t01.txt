@@ -1,0 +1,68 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "86"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -125 Y: -37
+
+.WRITER_INFO
+ Name: T PRAVEEN
+ WriterId: 49
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-21
+ WritingInProfession: no
+
+.PEN_DOWN
+2448 9855 0
+2451 9852 0
+2448 9853 0
+2444 9855 0
+2439 9858 0
+2433 9860 0
+2427 9862 0
+2420 9862 0
+2412 9859 0
+2405 9855 0
+2400 9850 0
+2393 9840 0
+2387 9829 0
+2382 9819 0
+2379 9808 0
+2377 9797 0
+2376 9787 0
+2376 9776 0
+2377 9765 0
+2380 9754 0
+2385 9742 0
+2392 9730 0
+2401 9720 0
+2412 9712 0
+2423 9707 0
+2434 9704 0
+2445 9704 0
+2454 9705 0
+2460 9706 0
+2464 9707 0
+2466 9710 0
+2468 9716 0
+2471 9726 0
+.PEN_UP

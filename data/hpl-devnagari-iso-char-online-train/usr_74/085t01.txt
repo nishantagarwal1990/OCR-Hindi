@@ -1,0 +1,60 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "85"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -104 Y: -23
+
+.WRITER_INFO
+ Name: B PAVAN
+ WriterId: 74
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+792 9981 0
+790 9977 0
+788 9973 0
+786 9977 0
+783 9980 0
+780 9986 0
+772 9993 0
+762 10005 0
+750 10018 0
+737 10033 0
+726 10050 0
+715 10061 0
+707 10073 0
+696 10086 0
+688 10099 0
+679 10111 0
+669 10123 0
+663 10136 0
+656 10145 0
+651 10152 0
+648 10156 0
+646 10159 0
+644 10152 0
+645 10143 0
+649 10134 0
+.PEN_UP

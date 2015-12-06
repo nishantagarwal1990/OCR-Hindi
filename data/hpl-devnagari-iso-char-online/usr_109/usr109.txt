@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = S BALASUBRAHMANIAM
+WriterId = 109
+Age = 28
+Gender = MALE
+Hand = RIGHT
+Region = CHENNAI
+Date = 2007-11-23
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = RESEACH SCHOLAR
+UsageFreq = RARELY
+EducationLevel = POST GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

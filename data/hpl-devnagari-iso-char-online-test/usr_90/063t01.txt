@@ -1,0 +1,48 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -17 Y: -117
+
+.WRITER_INFO
+ Name: VISWANATHAN A S
+ WriterId: 90
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: mumbai
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-8-5
+ WritingInProfession: no
+
+.PEN_DOWN
+5556 1906 0
+5554 1914 0
+5553 1921 0
+5553 1926 0
+5554 1932 0
+5554 1937 0
+5555 1940 0
+5558 1937 0
+5559 1934 0
+5559 1931 0
+5556 1929 0
+5559 1930 0
+5555 1928 0
+.PEN_UP

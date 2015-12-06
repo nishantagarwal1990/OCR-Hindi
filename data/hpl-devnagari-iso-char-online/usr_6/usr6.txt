@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = SIVARAMARAJU
+WriterId = 6
+Age = 24
+Gender = MALE
+Hand = RIGHT
+Region = PUTTAPARTHI
+Date = 2007-6-11
+SkillDevice = GOOD
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = RARELY
+EducationLevel = POST GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

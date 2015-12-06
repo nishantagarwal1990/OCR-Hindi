@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -25 Y: -32
+
+.WRITER_INFO
+ Name: GMBS SUNEEL KUMAR
+ WriterId: 26
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: anakapalli
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-14
+ WritingInProfession: no
+
+.PEN_DOWN
+972 1595 0
+967 1593 0
+964 1592 0
+963 1597 0
+964 1603 0
+967 1612 0
+971 1622 0
+975 1631 0
+980 1639 0
+987 1646 0
+994 1650 0
+1001 1651 0
+1010 1649 0
+1021 1642 0
+1035 1636 0
+1044 1628 0
+1050 1618 0
+1054 1609 0
+1056 1601 0
+1057 1596 0
+1057 1593 0
+1055 1597 0
+1051 1599 0
+.PEN_UP
+.PEN_DOWN
+1000 1589 0
+1000 1586 0
+1001 1589 0
+1003 1593 0
+1006 1597 0
+1010 1602 0
+.PEN_UP

@@ -1,0 +1,53 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -23 Y: -78
+
+.WRITER_INFO
+ Name: S GANESH
+ WriterId: 85
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+5484 1955 0
+5487 1954 0
+5490 1952 0
+5493 1952 0
+5496 1953 0
+5501 1955 0
+5506 1959 0
+5508 1962 0
+5507 1967 0
+5503 1972 0
+5496 1975 0
+5489 1977 0
+5484 1977 0
+5481 1976 0
+5480 1972 0
+5480 1966 0
+5483 1959 0
+5489 1953 0
+.PEN_UP

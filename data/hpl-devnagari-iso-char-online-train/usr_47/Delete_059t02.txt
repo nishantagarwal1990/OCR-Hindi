@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "59"
+.H_LINE 9500 10374
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 122 Y: -148
+
+.WRITER_INFO
+ Name: MANIKANTA
+ WriterId: 47
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: anakapalli
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-20
+ WritingInProfession: no
+
+.PEN_DOWN
+6895 9746 0
+6892 9745 0
+6891 9748 0
+6891 9752 0
+6893 9758 0
+6897 9764 0
+6905 9769 0
+6916 9774 0
+6929 9778 0
+6942 9780 0
+6953 9780 0
+6964 9779 0
+6977 9776 0
+6988 9772 0
+7000 9767 0
+7009 9762 0
+7015 9757 0
+7018 9753 0
+7019 9750 0
+7017 9753 0
+7015 9757 0
+7012 9762 0
+.PEN_UP

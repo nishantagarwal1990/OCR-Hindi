@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -35 Y: -52
+
+.WRITER_INFO
+ Name: CHANDU VIJAY
+ WriterId: 53
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: kollum
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+2394 8520 0
+2388 8517 0
+2385 8514 0
+2384 8510 0
+2384 8505 0
+2386 8500 0
+2390 8494 0
+2396 8489 0
+2402 8484 0
+2411 8480 0
+2419 8477 0
+2428 8475 0
+2438 8474 0
+2448 8475 0
+2456 8479 0
+2462 8485 0
+2465 8496 0
+2467 8508 0
+2466 8520 0
+2462 8532 0
+2456 8545 0
+2446 8556 0
+2433 8566 0
+2416 8574 0
+2396 8579 0
+2373 8581 0
+2348 8581 0
+2324 8579 0
+2302 8574 0
+2282 8566 0
+2266 8556 0
+.PEN_UP

@@ -1,0 +1,57 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -42 Y: -157
+
+.WRITER_INFO
+ Name: AVINASH B.
+ WriterId: 106
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bangalore
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-9-1
+ WritingInProfession: no
+
+.PEN_DOWN
+840 1801 0
+832 1800 0
+821 1798 0
+811 1798 0
+805 1798 0
+802 1798 0
+808 1800 0
+817 1803 0
+835 1807 0
+857 1810 0
+884 1813 0
+913 1815 0
+941 1816 0
+968 1818 0
+995 1819 0
+1021 1820 0
+1040 1821 0
+1054 1821 0
+1062 1821 0
+1065 1821 0
+1061 1824 0
+1058 1824 0
+.PEN_UP

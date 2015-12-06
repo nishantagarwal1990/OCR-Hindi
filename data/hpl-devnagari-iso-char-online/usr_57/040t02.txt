@@ -1,0 +1,78 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "40"
+.H_LINE 4624 5499
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -66 Y: 36
+
+.WRITER_INFO
+ Name: SAI KISHORE
+ WriterId: 57
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-23
+ WritingInProfession: no
+
+.PEN_DOWN
+706 5087 0
+702 5085 0
+696 5082 0
+688 5080 0
+677 5086 0
+665 5095 0
+653 5109 0
+641 5124 0
+632 5141 0
+627 5159 0
+629 5177 0
+636 5191 0
+647 5199 0
+660 5200 0
+675 5194 0
+694 5183 0
+718 5168 0
+746 5151 0
+776 5128 0
+804 5107 0
+823 5090 0
+834 5079 0
+838 5073 0
+838 5076 0
+837 5085 0
+833 5098 0
+829 5113 0
+826 5128 0
+824 5144 0
+825 5159 0
+827 5173 0
+834 5182 0
+.PEN_UP
+.PEN_DOWN
+681 5045 0
+686 5048 0
+700 5052 0
+730 5055 0
+775 5057 0
+823 5058 0
+864 5059 0
+894 5057 0
+914 5059 0
+.PEN_UP

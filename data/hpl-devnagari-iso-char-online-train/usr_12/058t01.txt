@@ -1,0 +1,68 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 7 Y: -139
+
+.WRITER_INFO
+ Name: T. V. SIVA KUMAR
+ WriterId: 12
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: tanuku
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+5275 9769 0
+5276 9764 0
+5275 9768 0
+5274 9772 0
+5271 9775 0
+5270 9778 0
+5268 9781 0
+5272 9782 0
+5276 9782 0
+5279 9777 0
+5280 9772 0
+5281 9768 0
+5280 9765 0
+5278 9762 0
+5273 9762 0
+5268 9764 0
+5265 9766 0
+5263 9770 0
+5263 9773 0
+5264 9776 0
+5267 9777 0
+5271 9778 0
+5276 9778 0
+5280 9776 0
+5283 9774 0
+5283 9771 0
+5282 9768 0
+5279 9765 0
+5276 9764 0
+5270 9764 0
+5265 9766 0
+5262 9769 0
+5262 9769 0
+.PEN_UP

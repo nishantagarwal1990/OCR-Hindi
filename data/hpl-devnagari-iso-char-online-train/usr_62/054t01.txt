@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "54"
+.H_LINE 7874 8750
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 34 Y: -83
+
+.WRITER_INFO
+ Name: HARDIK DAVE
+ WriterId: 62
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: punjab
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-23
+ WritingInProfession: no
+
+.PEN_DOWN
+7040 8131 0
+7038 8128 0
+7036 8125 0
+7035 8122 0
+7033 8119 0
+7030 8115 0
+7024 8109 0
+7014 8103 0
+6999 8092 0
+6970 8081 0
+6934 8069 0
+6897 8057 0
+6863 8045 0
+6839 8035 0
+6823 8028 0
+6813 8024 0
+6808 8021 0
+6809 8024 0
+6814 8028 0
+6823 8025 0
+6833 8034 0
+.PEN_UP

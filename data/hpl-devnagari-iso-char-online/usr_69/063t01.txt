@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -41 Y: -141
+
+.WRITER_INFO
+ Name: GOKUL KRISHNA
+ WriterId: 69
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-27
+ WritingInProfession: no
+
+.PEN_DOWN
+5451 1954 0
+5454 1954 0
+5458 1954 0
+5461 1954 0
+5464 1954 0
+5461 1954 0
+5458 1954 0
+5454 1954 0
+5450 1954 0
+5447 1954 0
+5447 1959 0
+5449 1962 0
+5452 1963 0
+5455 1963 0
+5459 1962 0
+5462 1959 0
+5464 1956 0
+5463 1953 0
+5459 1952 0
+5456 1952 0
+5452 1954 0
+5449 1956 0
+5448 1959 0
+5449 1962 0
+5453 1964 0
+5457 1964 0
+5460 1963 0
+5462 1959 0
+5463 1956 0
+5463 1953 0
+5460 1951 0
+.PEN_UP

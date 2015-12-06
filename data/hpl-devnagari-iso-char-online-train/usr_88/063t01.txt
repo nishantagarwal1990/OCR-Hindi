@@ -1,0 +1,55 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -20 Y: 27
+
+.WRITER_INFO
+ Name: E NARESH KUMAR
+ WriterId: 88
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: engineer
+ Region: hyderabad
+ Age: 25
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-7-21
+ WritingInProfession: no
+
+.PEN_DOWN
+5526 2025 0
+5528 2022 0
+5530 2019 0
+5533 2017 0
+5536 2013 0
+5539 2010 0
+5539 2014 0
+5539 2018 0
+5539 2022 0
+5538 2027 0
+5538 2033 0
+5537 2039 0
+5537 2044 0
+5536 2050 0
+5535 2054 0
+5533 2051 0
+5531 2047 0
+5529 2042 0
+5528 2038 0
+5528 2033 0
+.PEN_UP

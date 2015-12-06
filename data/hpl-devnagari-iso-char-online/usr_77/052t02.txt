@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "52"
+.H_LINE 7874 8750
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -135 Y: -164
+
+.WRITER_INFO
+ Name: AKSHAY
+ WriterId: 77
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: chennai
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+3982 8419 0
+3981 8424 0
+3978 8433 0
+3973 8444 0
+3967 8455 0
+3961 8466 0
+3953 8476 0
+3944 8485 0
+3934 8492 0
+3923 8496 0
+3911 8497 0
+3901 8495 0
+3894 8489 0
+3889 8478 0
+3886 8462 0
+3885 8445 0
+3886 8427 0
+3890 8412 0
+3897 8400 0
+3908 8392 0
+3924 8393 0
+3946 8400 0
+3971 8410 0
+3999 8422 0
+4026 8436 0
+4049 8449 0
+4070 8460 0
+4088 8469 0
+4103 8476 0
+4113 8480 0
+4120 8482 0
+4126 8482 0
+4130 8482 0
+4130 8482 0
+.PEN_UP

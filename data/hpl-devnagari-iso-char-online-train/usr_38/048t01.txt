@@ -1,0 +1,54 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "48"
+.H_LINE 6249 7124
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 105 Y: -134
+
+.WRITER_INFO
+ Name: BVK BHARADWAJ
+ WriterId: 38
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: bhadrachalam
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+5504 6550 0
+5506 6547 0
+5507 6550 0
+5508 6555 0
+5508 6563 0
+5509 6576 0
+5510 6592 0
+5510 6611 0
+5510 6635 0
+5511 6661 0
+5512 6685 0
+5514 6706 0
+5516 6723 0
+5517 6735 0
+5517 6745 0
+5516 6753 0
+5516 6759 0
+5515 6762 0
+5515 6762 0
+.PEN_UP

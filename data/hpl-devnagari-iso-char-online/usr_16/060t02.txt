@@ -1,0 +1,68 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -124 Y: 128
+
+.WRITER_INFO
+ Name: ANAND
+ WriterId: 16
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: sikkim
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: good
+ Date: 2007-6-12
+ WritingInProfession: can't say
+
+.PEN_DOWN
+830 1823 0
+829 1828 0
+830 1833 0
+833 1839 0
+840 1845 0
+851 1850 0
+865 1852 0
+879 1850 0
+893 1845 0
+908 1838 0
+919 1832 0
+925 1828 0
+927 1824 0
+926 1820 0
+924 1816 0
+921 1812 0
+918 1809 0
+.PEN_UP
+.PEN_DOWN
+879 1802 0
+876 1805 0
+874 1809 0
+873 1813 0
+874 1816 0
+878 1817 0
+881 1817 0
+884 1815 0
+885 1812 0
+885 1809 0
+883 1806 0
+881 1802 0
+878 1799 0
+878 1799 0
+.PEN_UP

@@ -1,0 +1,64 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "64"
+.H_LINE 1374 2249
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 70 Y: -121
+
+.WRITER_INFO
+ Name: ABHINAY
+ WriterId: 33
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: good
+ Date: 2007-6-16
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+6937 1725 0
+6936 1721 0
+6936 1716 0
+6935 1709 0
+6935 1702 0
+6935 1696 0
+6934 1689 0
+6934 1683 0
+6934 1678 0
+6933 1674 0
+6931 1680 0
+6930 1687 0
+6929 1697 0
+6929 1711 0
+6930 1722 0
+6929 1734 0
+6929 1752 0
+6930 1771 0
+6930 1787 0
+6930 1805 0
+6929 1826 0
+6928 1848 0
+6927 1867 0
+6927 1887 0
+6927 1903 0
+6928 1914 0
+6928 1919 0
+6929 1922 0
+6929 1909 0
+.PEN_UP

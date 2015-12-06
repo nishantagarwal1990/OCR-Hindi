@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "62"
+.H_LINE 1374 2249
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 45 Y: -71
+
+.WRITER_INFO
+ Name: K N NARESH
+ WriterId: 15
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: hindupur
+ Age: 25
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-12
+ WritingInProfession: no
+
+.PEN_DOWN
+4048 1994 0
+4045 1993 0
+4042 1994 0
+4039 1996 0
+4040 1999 0
+4043 2002 0
+4046 2007 0
+4052 2013 0
+4059 2020 0
+4067 2027 0
+4075 2036 0
+4086 2044 0
+4098 2052 0
+4108 2058 0
+4118 2064 0
+4128 2068 0
+4137 2070 0
+4144 2071 0
+4148 2072 0
+4143 2071 0
+4137 2071 0
+.PEN_UP

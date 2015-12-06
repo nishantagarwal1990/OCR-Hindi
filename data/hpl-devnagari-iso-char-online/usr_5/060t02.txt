@@ -1,0 +1,63 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 28 Y: -129
+
+.WRITER_INFO
+ Name: B. SRIMANARAYANA
+ WriterId: 5
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: prakasam
+ Age: 27
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+979 1552 0
+981 1555 0
+983 1559 0
+987 1563 0
+991 1566 0
+994 1569 0
+999 1571 0
+1005 1571 0
+1012 1571 0
+1019 1570 0
+1025 1569 0
+1029 1569 0
+1032 1568 0
+1034 1565 0
+1037 1563 0
+1041 1558 0
+1045 1554 0
+1050 1550 0
+1053 1546 0
+1056 1544 0
+1056 1544 0
+.PEN_UP
+.PEN_DOWN
+1012 1510 0
+1015 1510 0
+1018 1511 0
+1016 1515 0
+1013 1516 0
+.PEN_UP

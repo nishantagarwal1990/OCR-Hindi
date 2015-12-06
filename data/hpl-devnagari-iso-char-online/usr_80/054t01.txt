@@ -1,0 +1,70 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "54"
+.H_LINE 7874 8750
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -43 Y: -66
+
+.WRITER_INFO
+ Name: DILEEP K V S
+ WriterId: 80
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+6943 8183 0
+6941 8179 0
+6939 8175 0
+6937 8168 0
+6933 8159 0
+6927 8150 0
+6920 8140 0
+6911 8130 0
+6901 8119 0
+6889 8108 0
+6875 8096 0
+6860 8086 0
+6845 8078 0
+6829 8072 0
+6816 8068 0
+6805 8066 0
+6796 8065 0
+6790 8065 0
+6786 8066 0
+6781 8069 0
+6776 8073 0
+6771 8076 0
+6768 8079 0
+6771 8081 0
+6775 8081 0
+6779 8081 0
+6785 8080 0
+6793 8079 0
+6801 8078 0
+6807 8077 0
+6813 8076 0
+6818 8075 0
+6823 8074 0
+6827 8077 0
+6832 8078 0
+.PEN_UP

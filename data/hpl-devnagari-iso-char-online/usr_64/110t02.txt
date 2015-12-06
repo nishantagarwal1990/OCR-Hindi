@@ -1,0 +1,71 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -67 Y: -117
+
+.WRITER_INFO
+ Name: VAMSI KRISHNA
+ WriterId: 64
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+877 8158 0
+872 8158 0
+868 8158 0
+864 8153 0
+860 8149 0
+857 8146 0
+855 8143 0
+854 8140 0
+854 8137 0
+856 8134 0
+859 8131 0
+863 8128 0
+868 8124 0
+873 8121 0
+882 8117 0
+893 8113 0
+904 8111 0
+913 8109 0
+923 8107 0
+932 8106 0
+939 8106 0
+945 8107 0
+950 8110 0
+953 8115 0
+956 8121 0
+959 8129 0
+961 8138 0
+962 8148 0
+963 8159 0
+963 8172 0
+963 8184 0
+963 8196 0
+963 8210 0
+961 8224 0
+960 8241 0
+958 8248 0
+.PEN_UP

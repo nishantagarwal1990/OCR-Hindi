@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = RAVI KIRAN
+WriterId = 86
+Age = 40
+Gender = MALE
+Hand = RIGHT
+Region = BANGALORE
+Date = 2007-7-15
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = PHYSICAL INSTRUCTOR
+UsageFreq = ONCE A WEEK
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = GOOD
+Native = FALSE

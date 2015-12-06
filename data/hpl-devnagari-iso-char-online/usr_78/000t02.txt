@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -91 Y: -64
+
+.WRITER_INFO
+ Name: ANUJ SHUKLA
+ WriterId: 78
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: bhopal
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+560 1842 0
+554 1843 0
+550 1843 0
+547 1843 0
+550 1845 0
+553 1846 0
+556 1847 0
+559 1848 0
+564 1848 0
+573 1848 0
+586 1848 0
+600 1848 0
+615 1848 0
+631 1847 0
+649 1846 0
+668 1844 0
+689 1843 0
+714 1842 0
+741 1841 0
+766 1840 0
+790 1839 0
+814 1838 0
+834 1837 0
+853 1834 0
+870 1833 0
+881 1832 0
+889 1832 0
+893 1832 0
+894 1824 0
+894 1824 0
+.PEN_UP

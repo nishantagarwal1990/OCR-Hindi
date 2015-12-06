@@ -1,0 +1,69 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 8 Y: -164
+
+.WRITER_INFO
+ Name: VAMSI KRISHNA
+ WriterId: 64
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+5399 9591 0
+5396 9590 0
+5393 9590 0
+5390 9593 0
+5388 9596 0
+5386 9599 0
+5386 9602 0
+5386 9605 0
+5387 9608 0
+5390 9610 0
+5393 9611 0
+5396 9610 0
+5398 9607 0
+5400 9602 0
+5402 9596 0
+5403 9590 0
+5404 9585 0
+5403 9582 0
+5400 9581 0
+5396 9583 0
+5392 9586 0
+5389 9590 0
+5387 9594 0
+5386 9597 0
+5386 9600 0
+5389 9601 0
+5392 9601 0
+5395 9597 0
+5397 9594 0
+5398 9590 0
+5398 9586 0
+5398 9583 0
+5398 9588 0
+5400 9596 0
+.PEN_UP

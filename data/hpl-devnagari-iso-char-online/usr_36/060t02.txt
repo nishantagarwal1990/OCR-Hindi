@@ -1,0 +1,66 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -173 Y: -10
+
+.WRITER_INFO
+ Name: GARVIT
+ WriterId: 36
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: meerut
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: average
+ Date: 2007-6-16
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+1063 1666 0
+1060 1668 0
+1059 1671 0
+1059 1675 0
+1059 1680 0
+1062 1686 0
+1066 1691 0
+1071 1697 0
+1077 1704 0
+1084 1711 0
+1090 1717 0
+1096 1723 0
+1103 1728 0
+1113 1730 0
+1125 1731 0
+1139 1730 0
+1154 1727 0
+1167 1723 0
+1180 1720 0
+1191 1716 0
+1199 1712 0
+1204 1710 0
+1207 1708 0
+1208 1705 0
+1207 1702 0
+1204 1699 0
+.PEN_UP
+.PEN_DOWN
+1133 1665 0
+1133 1662 0
+1134 1658 0
+.PEN_UP

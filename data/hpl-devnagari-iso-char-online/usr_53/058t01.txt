@@ -1,0 +1,47 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 37 Y: -99
+
+.WRITER_INFO
+ Name: CHANDU VIJAY
+ WriterId: 53
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: kollum
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+5350 9781 0
+5351 9778 0
+5351 9775 0
+5348 9778 0
+5346 9781 0
+5345 9784 0
+5348 9785 0
+5351 9785 0
+5354 9782 0
+5353 9779 0
+5354 9782 0
+5354 9782 0
+.PEN_UP

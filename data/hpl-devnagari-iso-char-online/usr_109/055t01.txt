@@ -1,0 +1,74 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "55"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 39 Y: -112
+
+.WRITER_INFO
+ Name: S BALASUBRAHMANIAM
+ WriterId: 109
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: reseach scholar
+ Region: chennai
+ Age: 28
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-11-23
+ WritingInProfession: no
+
+.PEN_DOWN
+954 9765 0
+953 9762 0
+952 9759 0
+951 9756 0
+950 9753 0
+948 9747 0
+947 9740 0
+945 9731 0
+941 9717 0
+935 9701 0
+927 9685 0
+917 9666 0
+906 9650 0
+896 9637 0
+886 9628 0
+879 9622 0
+873 9619 0
+870 9617 0
+867 9616 0
+864 9616 0
+860 9618 0
+.PEN_UP
+.PEN_DOWN
+882 9741 0
+879 9737 0
+875 9731 0
+869 9723 0
+863 9717 0
+857 9710 0
+850 9703 0
+842 9695 0
+835 9689 0
+829 9684 0
+823 9680 0
+817 9678 0
+813 9676 0
+809 9675 0
+806 9675 0
+802 9665 0
+.PEN_UP

@@ -1,0 +1,67 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "59"
+.H_LINE 9500 10374
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 38 Y: -71
+
+.WRITER_INFO
+ Name: M SAI RAGHU RAM
+ WriterId: 54
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: good
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+6843 9737 0
+6841 9733 0
+6839 9729 0
+6837 9725 0
+6836 9721 0
+6835 9718 0
+6832 9716 0
+6829 9717 0
+6828 9720 0
+6826 9724 0
+6825 9731 0
+6824 9738 0
+6825 9746 0
+6826 9756 0
+6829 9766 0
+6833 9776 0
+6838 9787 0
+6847 9796 0
+6859 9803 0
+6872 9806 0
+6885 9805 0
+6899 9802 0
+6913 9797 0
+6927 9790 0
+6939 9780 0
+6950 9767 0
+6959 9752 0
+6967 9737 0
+6973 9726 0
+6976 9719 0
+6977 9715 0
+6977 9715 0
+.PEN_UP

@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "63"
+.H_LINE 1374 2249
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 52 Y: -94
+
+.WRITER_INFO
+ Name: RAMAKRISHNA
+ WriterId: 39
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: visakhapatnam
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+5519 1946 0
+5512 1947 0
+5509 1949 0
+5506 1950 0
+5506 1953 0
+5508 1956 0
+5511 1957 0
+5515 1957 0
+5520 1956 0
+5524 1954 0
+5528 1952 0
+5530 1949 0
+5529 1946 0
+5526 1945 0
+5523 1945 0
+5522 1948 0
+5519 1946 0
+5515 1945 0
+5509 1945 0
+5504 1947 0
+5504 1947 0
+.PEN_UP

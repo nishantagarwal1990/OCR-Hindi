@@ -1,0 +1,55 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "0"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -19 Y: -95
+
+.WRITER_INFO
+ Name: SIVARAMARAJU
+ WriterId: 6
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: student
+ Region: puttaparthi
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: good
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-11
+ WritingInProfession: no
+
+.PEN_DOWN
+697 1808 0
+700 1809 0
+704 1810 0
+711 1810 0
+721 1809 0
+733 1808 0
+751 1806 0
+774 1803 0
+803 1802 0
+837 1800 0
+874 1799 0
+908 1797 0
+937 1796 0
+960 1795 0
+974 1794 0
+982 1793 0
+986 1792 0
+982 1793 0
+973 1795 0
+959 1799 0
+.PEN_UP

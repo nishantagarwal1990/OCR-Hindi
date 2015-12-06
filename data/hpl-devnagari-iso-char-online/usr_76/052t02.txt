@@ -1,0 +1,59 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "52"
+.H_LINE 7874 8750
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -87 Y: -97
+
+.WRITER_INFO
+ Name: CHAKRAVARTHY
+ WriterId: 76
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+3855 8560 0
+3851 8561 0
+3843 8563 0
+3834 8564 0
+3826 8564 0
+3820 8562 0
+3817 8557 0
+3817 8548 0
+3822 8536 0
+3832 8522 0
+3845 8510 0
+3861 8501 0
+3881 8493 0
+3900 8489 0
+3918 8491 0
+3938 8498 0
+3959 8511 0
+3981 8526 0
+4001 8542 0
+4018 8556 0
+4029 8567 0
+4035 8576 0
+4038 8579 0
+4039 8583 0
+.PEN_UP

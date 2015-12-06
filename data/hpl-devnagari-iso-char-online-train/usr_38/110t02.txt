@@ -1,0 +1,77 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 9 Y: -98
+
+.WRITER_INFO
+ Name: BVK BHARADWAJ
+ WriterId: 38
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: bhadrachalam
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+879 8200 0
+874 8201 0
+871 8202 0
+868 8203 0
+867 8200 0
+867 8196 0
+869 8192 0
+871 8188 0
+874 8184 0
+877 8179 0
+881 8175 0
+884 8172 0
+888 8169 0
+893 8167 0
+899 8165 0
+906 8164 0
+916 8164 0
+925 8165 0
+933 8167 0
+941 8169 0
+948 8172 0
+954 8176 0
+959 8180 0
+964 8185 0
+970 8191 0
+974 8198 0
+978 8207 0
+981 8217 0
+984 8229 0
+986 8240 0
+988 8251 0
+990 8261 0
+991 8270 0
+992 8279 0
+992 8287 0
+993 8293 0
+993 8298 0
+993 8303 0
+993 8308 0
+994 8313 0
+994 8318 0
+994 8323 0
+.PEN_UP

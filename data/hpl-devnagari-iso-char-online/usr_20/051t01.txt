@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "51"
+.H_LINE 7874 8750
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -36 Y: -117
+
+.WRITER_INFO
+ Name: PRADEEP NARAYAN
+ WriterId: 20
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: mangalore
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-13
+ WritingInProfession: no
+
+.PEN_DOWN
+2399 8415 0
+2391 8411 0
+2385 8407 0
+2383 8404 0
+2383 8400 0
+2387 8397 0
+2394 8396 0
+2405 8396 0
+2420 8399 0
+2437 8405 0
+2452 8414 0
+2463 8427 0
+2471 8443 0
+2476 8459 0
+2473 8476 0
+2464 8489 0
+2449 8500 0
+2428 8507 0
+2404 8509 0
+2377 8507 0
+2350 8502 0
+2328 8495 0
+2315 8488 0
+2311 8481 0
+2316 8474 0
+2330 8468 0
+.PEN_UP

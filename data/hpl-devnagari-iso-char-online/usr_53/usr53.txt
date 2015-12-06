@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = CHANDU VIJAY
+WriterId = 53
+Age = 24
+Gender = MALE
+Hand = RIGHT
+Region = KOLLUM
+Date = 2007-6-22
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = RARELY
+EducationLevel = POST GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

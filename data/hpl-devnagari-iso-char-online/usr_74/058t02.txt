@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "58"
+.H_LINE 9500 10374
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -15 Y: -31
+
+.WRITER_INFO
+ Name: B PAVAN
+ WriterId: 74
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+5380 9766 0
+5375 9760 0
+5378 9764 0
+5384 9768 0
+5390 9771 0
+5394 9773 0
+5398 9773 0
+5401 9769 0
+5405 9767 0
+5409 9764 0
+5412 9762 0
+5409 9761 0
+5406 9761 0
+5401 9763 0
+5396 9768 0
+5391 9771 0
+5395 9773 0
+5400 9773 0
+5409 9772 0
+5416 9768 0
+5423 9765 0
+5428 9762 0
+5429 9759 0
+5423 9756 0
+5417 9754 0
+5408 9751 0
+5400 9752 0
+5394 9753 0
+5387 9755 0
+5383 9761 0
+.PEN_UP

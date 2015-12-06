@@ -1,0 +1,61 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "54"
+.H_LINE 7874 8750
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -39 Y: -91
+
+.WRITER_INFO
+ Name: SAI SUDHEER
+ WriterId: 98
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: student
+ Age: 27
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-8-17
+ WritingInProfession: no
+
+.PEN_DOWN
+6974 8223 0
+6977 8223 0
+6978 8218 0
+6979 8215 0
+6980 8212 0
+6979 8209 0
+6979 8206 0
+6978 8201 0
+6975 8193 0
+6971 8183 0
+6965 8171 0
+6958 8160 0
+6948 8148 0
+6936 8136 0
+6921 8125 0
+6907 8115 0
+6894 8106 0
+6883 8098 0
+6873 8092 0
+6863 8085 0
+6855 8079 0
+6850 8076 0
+6846 8073 0
+6843 8071 0
+6840 8071 0
+6836 8072 0
+.PEN_UP

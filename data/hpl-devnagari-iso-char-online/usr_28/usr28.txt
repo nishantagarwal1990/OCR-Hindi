@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = Y SRAVAN KUMAR
+WriterId = 28
+Age = 22
+Gender = MALE
+Hand = RIGHT
+Region = MARKAPUR
+Date = 2007-6-15
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = RARELY
+EducationLevel = COLLEGE GRADUATE
+WritingInProfession = NO
+Proficiency = AVERAGE
+Native = FALSE

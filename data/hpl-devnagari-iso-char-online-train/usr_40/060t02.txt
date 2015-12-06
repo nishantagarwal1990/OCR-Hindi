@@ -1,0 +1,76 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 0 Y: -56
+
+.WRITER_INFO
+ Name: A SUNIL
+ WriterId: 40
+ Hand: right
+ EducationLevel: post graduate
+ Gender: male
+ Profession: research scholar
+ Region: hyderabad
+ Age: 23
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-6-18
+ WritingInProfession: no
+
+.PEN_DOWN
+912 1637 0
+910 1634 0
+907 1632 0
+906 1635 0
+907 1639 0
+908 1645 0
+912 1651 0
+918 1658 0
+926 1665 0
+937 1671 0
+950 1675 0
+965 1676 0
+979 1675 0
+991 1673 0
+1001 1670 0
+1009 1664 0
+1014 1659 0
+1018 1654 0
+1020 1648 0
+1021 1641 0
+1022 1634 0
+1022 1629 0
+1022 1626 0
+1022 1626 0
+.PEN_UP
+.PEN_DOWN
+983 1628 0
+980 1627 0
+977 1628 0
+973 1630 0
+970 1632 0
+967 1633 0
+964 1634 0
+961 1634 0
+958 1634 0
+955 1634 0
+952 1634 0
+949 1634 0
+946 1633 0
+949 1632 0
+951 1629 0
+.PEN_UP

@@ -1,0 +1,54 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "59"
+.H_LINE 9500 10374
+.V_LINE 6500 7250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 61 Y: -62
+
+.WRITER_INFO
+ Name: C VINOD
+ WriterId: 55
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 20
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: good
+ Date: 2007-6-22
+ WritingInProfession: no
+
+.PEN_DOWN
+6836 9697 0
+6836 9693 0
+6836 9688 0
+6836 9685 0
+6836 9689 0
+6837 9696 0
+6839 9705 0
+6843 9715 0
+6849 9725 0
+6858 9734 0
+6871 9739 0
+6889 9739 0
+6909 9734 0
+6933 9725 0
+6954 9712 0
+6972 9698 0
+6987 9683 0
+6996 9671 0
+7001 9661 0
+.PEN_UP

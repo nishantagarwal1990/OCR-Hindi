@@ -1,0 +1,65 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -77 Y: -157
+
+.WRITER_INFO
+ Name: KISHORE
+ WriterId: 93
+ Hand: right
+ EducationLevel: primary school
+ Gender: male
+ Profession: student
+ Region: nellore
+ Age: 14
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: every day
+ Proficiency: average
+ Date: 2007-7-8
+ WritingInProfession: yes, but limited
+
+.PEN_DOWN
+854 8069 0
+857 8072 0
+860 8073 0
+863 8074 0
+867 8075 0
+873 8075 0
+878 8075 0
+882 8076 0
+887 8077 0
+891 8077 0
+894 8077 0
+897 8078 0
+900 8078 0
+903 8078 0
+906 8081 0
+907 8085 0
+908 8089 0
+909 8094 0
+910 8100 0
+911 8108 0
+912 8119 0
+913 8131 0
+913 8143 0
+913 8156 0
+913 8167 0
+912 8178 0
+912 8189 0
+912 8198 0
+913 8206 0
+928 8212 0
+.PEN_UP

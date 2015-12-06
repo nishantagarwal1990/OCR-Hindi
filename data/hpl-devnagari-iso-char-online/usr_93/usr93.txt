@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = KISHORE
+WriterId = 93
+Age = 14
+Gender = MALE
+Hand = RIGHT
+Region = NELLORE
+Date = 2007-7-8
+SkillDevice = AVERAGE
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = EVERY DAY
+EducationLevel = PRIMARY SCHOOL
+WritingInProfession = YES, BUT LIMITED
+Proficiency = AVERAGE
+Native = FALSE

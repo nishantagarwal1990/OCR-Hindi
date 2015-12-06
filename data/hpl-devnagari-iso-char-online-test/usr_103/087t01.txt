@@ -1,0 +1,63 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "87"
+.H_LINE 9500 10374
+.V_LINE 3500 4250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -81 Y: -68
+
+.WRITER_INFO
+ Name: AIYAPPA
+ WriterId: 103
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: rarely
+ Proficiency: average
+ Date: 2007-9-20
+ WritingInProfession: no
+
+.PEN_DOWN
+4179 10068 0
+4175 10072 0
+4169 10079 0
+4160 10089 0
+4149 10100 0
+4137 10110 0
+4128 10120 0
+4121 10129 0
+4116 10137 0
+4114 10142 0
+4114 10145 0
+4116 10148 0
+4117 10145 0
+.PEN_UP
+.PEN_DOWN
+4210 10073 0
+4207 10075 0
+4205 10078 0
+4203 10083 0
+4201 10089 0
+4199 10095 0
+4197 10102 0
+4196 10108 0
+4196 10114 0
+4197 10121 0
+4200 10128 0
+4203 10136 0
+4207 10139 0
+.PEN_UP

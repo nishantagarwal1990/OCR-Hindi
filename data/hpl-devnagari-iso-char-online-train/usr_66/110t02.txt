@@ -1,0 +1,63 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "110"
+.H_LINE 7874 8750
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 4 Y: -132
+
+.WRITER_INFO
+ Name: SHAILESH
+ WriterId: 66
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: jharkand
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: true
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+847 8148 0
+846 8145 0
+847 8142 0
+849 8139 0
+853 8134 0
+860 8129 0
+869 8123 0
+879 8118 0
+890 8114 0
+901 8109 0
+914 8106 0
+924 8103 0
+933 8102 0
+939 8104 0
+945 8108 0
+950 8114 0
+956 8124 0
+961 8137 0
+965 8150 0
+967 8164 0
+968 8179 0
+967 8193 0
+967 8205 0
+967 8214 0
+968 8222 0
+968 8228 0
+968 8233 0
+968 8237 0
+.PEN_UP

@@ -1,0 +1,17 @@
+# Writer Information
+
+Name = ABHINAY
+WriterId = 33
+Age = 14
+Gender = MALE
+Hand = RIGHT
+Region = HYDERABAD
+Date = 2007-6-16
+SkillDevice = GOOD
+Style = DISCRETE
+Profession = STUDENT
+UsageFreq = EVERY DAY
+EducationLevel = PRIMARY SCHOOL
+WritingInProfession = YES, BUT LIMITED
+Proficiency = GOOD
+Native = FALSE

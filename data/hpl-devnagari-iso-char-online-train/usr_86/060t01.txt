@@ -1,0 +1,76 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "60"
+.H_LINE 1374 2249
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: -10 Y: 35
+
+.WRITER_INFO
+ Name: RAVI KIRAN
+ WriterId: 86
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: physical instructor
+ Region: bangalore
+ Age: 40
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a week
+ Proficiency: good
+ Date: 2007-7-15
+ WritingInProfession: no
+
+.PEN_DOWN
+968 1646 0
+967 1643 0
+966 1639 0
+965 1636 0
+968 1641 0
+971 1648 0
+975 1657 0
+979 1667 0
+982 1678 0
+985 1687 0
+988 1695 0
+991 1700 0
+995 1702 0
+1000 1700 0
+1007 1693 0
+1018 1681 0
+1033 1667 0
+1047 1653 0
+1060 1639 0
+1070 1630 0
+1074 1623 0
+1075 1619 0
+1074 1616 0
+1071 1617 0
+1068 1619 0
+1063 1623 0
+1058 1627 0
+1056 1630 0
+.PEN_UP
+.PEN_DOWN
+998 1579 0
+997 1575 0
+995 1569 0
+994 1564 0
+994 1561 0
+997 1561 0
+1000 1562 0
+1002 1565 0
+1004 1569 0
+1005 1574 0
+1006 1578 0
+.PEN_UP

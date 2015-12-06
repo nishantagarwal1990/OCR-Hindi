@@ -1,0 +1,67 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "56"
+.H_LINE 9500 10374
+.V_LINE 1999 2749
+.X_DIM 749
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 49 Y: -208
+
+.WRITER_INFO
+ Name: PRADEEP KUMAR
+ WriterId: 67
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: hyderabad
+ Age: 24
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-26
+ WritingInProfession: no
+
+.PEN_DOWN
+2455 9765 0
+2454 9761 0
+2454 9758 0
+2456 9762 0
+2459 9772 0
+2463 9789 0
+2468 9815 0
+2473 9846 0
+2476 9876 0
+2478 9905 0
+2478 9931 0
+2477 9949 0
+2476 9962 0
+2475 9969 0
+2474 9972 0
+2473 9961 0
+2473 9945 0
+2473 9918 0
+2474 9878 0
+2471 9830 0
+2462 9784 0
+2445 9737 0
+2417 9696 0
+2392 9662 0
+2372 9638 0
+2360 9624 0
+2354 9617 0
+2351 9614 0
+2351 9620 0
+2352 9629 0
+2353 9642 0
+2355 9655 0
+.PEN_UP

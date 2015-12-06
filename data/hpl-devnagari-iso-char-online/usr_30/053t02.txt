@@ -1,0 +1,56 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0 OK "53"
+.H_LINE 7874 8750
+.V_LINE 5000 5750
+.X_DIM 750
+.Y_DIM 875
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 135 Y: -128
+
+.WRITER_INFO
+ Name: S VIJAY KUMAR
+ WriterId: 30
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: rajahmundry
+ Age: 22
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-15
+ WritingInProfession: no
+
+.PEN_DOWN
+5560 8469 0
+5560 8466 0
+5550 8468 0
+5538 8472 0
+5527 8478 0
+5517 8485 0
+5508 8493 0
+5501 8502 0
+5495 8509 0
+5491 8517 0
+5490 8524 0
+5489 8530 0
+5493 8535 0
+5499 8539 0
+5506 8541 0
+5518 8542 0
+5533 8542 0
+5554 8541 0
+5576 8539 0
+5598 8534 0
+5617 8529 0
+.PEN_UP

@@ -1,0 +1,74 @@
+.VERSION 1.0 
+.HIERARCHY CHARACTER
+.COORD X Y T
+.SEGMENT CHARACTER 0-1 OK "55"
+.H_LINE 9500 10374
+.V_LINE 499 1250
+.X_DIM 750
+.Y_DIM 874
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 125
+.COMMENT CALIB X: 24 Y: -125
+
+.WRITER_INFO
+ Name: CHAKRAVARTHY
+ WriterId: 76
+ Hand: right
+ EducationLevel: college graduate
+ Gender: male
+ Profession: student
+ Region: visakhapatnam
+ Age: 21
+ DeviceType: digimemo a402
+ SkillDevice: average
+ Language: hindi
+ Script: indic
+ Native: false
+ Style: discrete
+ UsageFreq: once a month
+ Proficiency: average
+ Date: 2007-6-30
+ WritingInProfession: no
+
+.PEN_DOWN
+726 9727 0
+723 9726 0
+722 9729 0
+724 9734 0
+729 9740 0
+736 9749 0
+745 9758 0
+753 9767 0
+761 9775 0
+771 9783 0
+781 9792 0
+790 9799 0
+799 9805 0
+807 9811 0
+815 9817 0
+822 9821 0
+.PEN_UP
+.PEN_DOWN
+805 9702 0
+803 9698 0
+801 9694 0
+800 9691 0
+800 9694 0
+800 9701 0
+802 9710 0
+805 9720 0
+809 9730 0
+814 9740 0
+819 9751 0
+825 9761 0
+832 9770 0
+839 9778 0
+845 9785 0
+851 9790 0
+857 9796 0
+864 9802 0
+871 9807 0
+879 9814 0
+886 9821 0
+.PEN_UP
