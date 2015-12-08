@@ -1,59 +1,72 @@
-#include "opencv2/imgproc/imgproc.hpp"
-#include "opencv2/highgui/highgui.hpp"
-#include "opencv2/opencv.hpp"
+#include "feature_extraction.hpp"
 #include <iostream>
 #include <string>
 #include <sys/stat.h>
+#include <fstream>
 using namespace std;
-using namespace cv;
 
-double threshold_value = 127;
-int threshold_type = 0;
-double const max_BINARY_value = 1;
-Mat src; Mat dst;
-//char window_name1[] = "Unprocessed Image";
-//char window_name2[] = "Processed Image";
+
+
 
 int main( int argc, char** argv )
 {
     int i,j;
-    string line,path,char_num,file_name;
-    size_t pos;
+    int main_choice,sub_choice;
+    string filename;
     ifstream inputfile;
     ofstream outputfile;
-    inputfile.open(argv[1],"r");
+    string line,path,char_num,file_name;
+    size_t pos;
+    main_choice = -1;
     
-    struct stat st = {0};
-    
-    if (stat("feature_extracted", &st) == -1) {
-        mkdir("feature_extracted", 0700);
-    }
-    if(inputfile.is_open()){
-        while(getline(inputfile,line)){
-            pos = line.find_last_of("/");
-            file_name = line.substr(pos+1);
-            pos = file_name.find_first_of("t");
-            char_num = file_name.substr(0,pos);
-            path = "feature_extracted"+char_num+".txt";
-            outputfile.txt(path, ios::out | ios::app);
-            /// Load the source image
-            src = imread(line, CV_LOAD_IMAGE_UNCHANGED );
-            dst = src.clone();
-            cvtColor(src, dst, CV_BGR2GRAY);
-            dst = dst > 128;
-            dst = dst/255;
-            resize(dst, dst, Size(64, 64), 0, 0, INTER_CUBIC);
-            for(i=0;i<dst.rows;++i){
-                for(j=0;j<dst.cols;++j){
-                    if(i*j != 3969)
-                        outputfile<<int(dst.at<uchar>(Point(i, j)))<<" ";
-                    else
-                        outputfile<<int(dst.at<uchar>(Point(i, j)))<<"\n";
+    do{
+        cout<<"Select one of the below functions"<<endl;
+        cout<<"1. Feature Extraction"<<endl;
+        cout<<"2. Classification"<<endl;
+        cout<<"3. Exit"<<endl;
+        cin >> main_choice;
+        if(main_choice == 1){
+            cout<<"Enter the filepath or name(containing name of all image files): ";
+            cin >> filename;
+            cout<<"Select one of the below functions"<<endl;
+            cout<<"1. Binary extraction"<<endl;
+            cout<<"2. Contouring"<<endl;
+            cin >> sub_choice;
+            
+           
+            inputfile.open(filename,ios::in);
+            
+            struct stat st = {0};
+            if(inputfile.is_open()){
+                while(getline(inputfile,line)){
+                    pos = line.find_last_of("/");
+                    file_name = line.substr(pos+1);
+                    pos = file_name.find_first_of("t");
+                    char_num = file_name.substr(0,pos);
+                    if(sub_choice == 1){
+                        if (stat("feature_extracted/binary", &st) == -1) {
+                            system("mkdir -p feature_extracted/binary/");
+                            //mkdir("feature_extracted/binary", 0700);
+                        }
+                        path = "feature_extracted/binary/"+char_num+".txt";
+                        outputfile.open(path, ios::out | ios::app);
+                        binaryimagefeature(line,outputfile);
+                        outputfile.close();
+                    }
+                    if(sub_choice == 2){
+                        if (stat("feature_extracted/contour", &st) == -1) {
+                            system("mkdir -p feature_extracted/contour/");
+                            //mkdir("feature_extracted/contour", 0700);
+                        }
+                        path = "feature_extracted/contour"+char_num+".txt";
+                        outputfile.open(path, ios::out | ios::app);
+                        outputfile.close();
+                    }
                 }
             }
-            outputfile.close();
+            inputfile.close();
         }
-    }
-    
+    }while(main_choice != 3);
+
     return 0;
 }

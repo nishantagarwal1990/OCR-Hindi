@@ -1,5 +1,1 @@
-find . -type d \( -path ./.git -o \
-                  -path ./log -o \
-                  -path ./public -o \
-                  -path ./tmp \) -prune -o \
-       ! -type d -print > list.txt
+find /Users/nishantagarwal/Documents/Projects/Machine_Learning/OCR-Hindi/data/hpl-devnagari-iso-char-offline-test -type f -name "*.tiff"

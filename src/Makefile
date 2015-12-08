@@ -123,6 +123,33 @@ OCR/fast:
 	$(MAKE) -f CMakeFiles/OCR.dir/build.make CMakeFiles/OCR.dir/build
 .PHONY : OCR/fast
 
+feature_extraction.o: feature_extraction.cpp.o
+
+.PHONY : feature_extraction.o
+
+# target to build an object file
+feature_extraction.cpp.o:
+	$(MAKE) -f CMakeFiles/OCR.dir/build.make CMakeFiles/OCR.dir/feature_extraction.cpp.o
+.PHONY : feature_extraction.cpp.o
+
+feature_extraction.i: feature_extraction.cpp.i
+
+.PHONY : feature_extraction.i
+
+# target to preprocess a source file
+feature_extraction.cpp.i:
+	$(MAKE) -f CMakeFiles/OCR.dir/build.make CMakeFiles/OCR.dir/feature_extraction.cpp.i
+.PHONY : feature_extraction.cpp.i
+
+feature_extraction.s: feature_extraction.cpp.s
+
+.PHONY : feature_extraction.s
+
+# target to generate assembly for a file
+feature_extraction.cpp.s:
+	$(MAKE) -f CMakeFiles/OCR.dir/build.make CMakeFiles/OCR.dir/feature_extraction.cpp.s
+.PHONY : feature_extraction.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... OCR"
+	@echo "... feature_extraction.o"
+	@echo "... feature_extraction.i"
+	@echo "... feature_extraction.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
