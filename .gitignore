@@ -4,3 +4,5 @@ src/CMakeFiles/*
 src/CMakeCache.txt
 src/cmake_install.txt
 src/list.txt
+CMakeFiles/*
+./OCR
