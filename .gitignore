@@ -5,6 +5,6 @@ src/CMakeCache.txt
 src/cmake_install.txt
 src/list.txt
 CMakeFiles/*
-OCR
+src/OCR
 src/*.tiff
 src/*.jpg
