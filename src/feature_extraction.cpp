@@ -90,15 +90,26 @@ void HOGFeatures(string path,ofstream& outputfile)
     Mat src;
     int i;
     HOGDescriptor hog(Size(32,32), //winSize
-                    Size(32,32), //blocksize
+                    Size(16,16), //blocksize
                     Size(8,8), //blockStride,
                     Size(8,8), //cellSize,
                     9 //nbins
                     );
     vector<float> features;
     vector<Point>locs;
+    //cout<<"here1"<<endl;
     src = imread(path, 1);
-    hog.compute(src,features,Size(64,64),Size(0,0),locs);
+    if(!src.data)
+    {
+        cout << "Failed loading "<< endl;
+        return;
+    }
+    //cout<<"here2"<<endl;
+    resize(src, src, Size(32,32), 0, 0, INTER_CUBIC);
+    hog.compute(src,features,Size(32,32),Size(0,0),locs);
+    //cout<<"here3"<<endl;
+    //cout<<features.size()<<endl;
+    
     for(i=0;i<features.size();++i){
         outputfile<<features[i]<<" ";
     }

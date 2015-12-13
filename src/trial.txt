@@ -1,1 +1,1 @@
-./002t02.tiff
+/Users/nishantagarwal/Documents/Projects/Machine_Learning/OCR-Hindi/data/hpl-devnagari-iso-char-offline-train/usr_24/048t02.tiff

@@ -43,9 +43,13 @@ int main( int argc, char** argv )
             struct stat st = {0};
             if(inputfile.is_open()){
                 while(getline(inputfile,line)){
+                    //cout<<line<<endl;
                     pos = line.find_last_of("/");
+                    //cout<<pos<<endl;
                     file_name = line.substr(pos+1);
+                    //cout<<file_name<<endl;
                     pos = file_name.find_first_of("t");
+                    //cout<<pos<<endl;
                     char_num = file_name.substr(0,pos);
                     if(sub_choice == 1){
                         if(test_or_train == "train"){
@@ -100,6 +104,7 @@ int main( int argc, char** argv )
                             }
                             path = "feature_extracted/HoG/test/"+char_num+".txt";
                         }
+                        cout<<line<<endl;
                         outputfile.open(path, ios::out | ios::app);
                         HOGFeatures(line,outputfile);
                         outputfile.close();
