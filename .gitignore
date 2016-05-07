@@ -1,0 +1,12 @@
+.DS_Store
+*/.DS_Store
+src/CMakeFiles/*
+src/CMakeCache.txt
+src/cmake_install.txt
+src/list.txt
+CMakeFiles/*
+src/OCR
+src/*.tiff
+src/*.jpg
+src/feature_extracted/*
+test/*
