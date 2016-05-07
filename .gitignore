@@ -10,3 +10,4 @@ src/*.tiff
 src/*.jpg
 src/feature_extracted/*
 test/*
+data/*
