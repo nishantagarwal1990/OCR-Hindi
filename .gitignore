@@ -8,3 +8,4 @@ CMakeFiles/*
 src/OCR
 src/*.tiff
 src/*.jpg
+src/feature_extracted/*

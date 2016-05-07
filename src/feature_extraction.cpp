@@ -8,14 +8,14 @@ void binaryimagefeature(string path, ofstream& outputfile){
     dst = src.clone();
     cvtColor(src, dst, CV_BGR2GRAY);
     resize(dst, dst, Size(32, 32), 0, 0, INTER_CUBIC);
-    dst = dst > 128;
+    dst = dst > 240;
     dst = dst/255;
     for(i=0;i<dst.rows;++i){
     	for(j=0;j<dst.cols;++j){
         	if(i*j != 961)
             	outputfile<<int(dst.at<uchar>(Point(i, j)))<<" ";
             else
-            	outputfile<<int(dst.at<uchar>(Point(i, j)))<<"\n";
+            	outputfile<<int(dst.at<uchar>(Point(i, j)));
          }
       }
 }
@@ -89,10 +89,10 @@ void HOGFeatures(string path,ofstream& outputfile)
 {
     Mat src;
     int i;
-    HOGDescriptor hog(Size(32,32), //winSize
-                    Size(16,16), //blocksize
-                    Size(8,8), //blockStride,
-                    Size(8,8), //cellSize,
+    HOGDescriptor hog(Size(64,128), //winSize
+                    Size(8,8), //blocksize
+                    Size(4,4), //blockStride,
+                    Size(4,4), //cellSize,
                     9 //nbins
                     );
     vector<float> features;
@@ -105,13 +105,15 @@ void HOGFeatures(string path,ofstream& outputfile)
         return;
     }
     //cout<<"here2"<<endl;
-    resize(src, src, Size(32,32), 0, 0, INTER_CUBIC);
-    hog.compute(src,features,Size(32,32),Size(0,0),locs);
+    resize(src, src, Size(64,128), 0, 0, INTER_CUBIC);
+    hog.compute(src,features,Size(64,128),Size(0,0),locs);
     //cout<<"here3"<<endl;
     //cout<<features.size()<<endl;
     
     for(i=0;i<features.size();++i){
-        outputfile<<features[i]<<" ";
+        if(i!=features.size()-1)
+            outputfile<<i+1<<":"<<features[i]<<" ";
+        else
+            outputfile<<i+1<<":"<<features[i]<<endl;
     }
-    outputfile<<endl;
 }

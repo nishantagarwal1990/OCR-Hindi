@@ -53,21 +53,22 @@ int main( int argc, char** argv )
                     char_num = file_name.substr(0,pos);
                     if(sub_choice == 1){
                         if(test_or_train == "train"){
-                            if (stat("feature_extracted/binary/train/", &st) == -1) {
-                                system("mkdir -p feature_extracted/binary/train/");
+                            if (stat("feature_extracted/newbinary1024/train/", &st) == -1) {
+                                system("mkdir -p feature_extracted/newbinary1024/train/");
                                 //mkdir("feature_extracted/binary", 0700);
                             }
-                            path = "feature_extracted/binary/train/"+char_num+".txt";
+                            path = "feature_extracted/newbinary1024/train/"+char_num+".txt";
                         }
                         else{
-                            if (stat("feature_extracted/binary/test/", &st) == -1) {
-                                system("mkdir -p feature_extracted/binary/test/");
+                            if (stat("feature_extracted/newbinary1024/test/", &st) == -1) {
+                                system("mkdir -p feature_extracted/newbinary1024/test/");
                                 //mkdir("feature_extracted/binary", 0700);
                             }
-                            path = "feature_extracted/binary/test/"+char_num+".txt";
+                            path = "feature_extracted/newbinary1024/test/"+char_num+".txt";
                         }
                         outputfile.open(path, ios::out | ios::app);
                         binaryimagefeature(line,outputfile);
+                        outputfile<<" 1 "<<stoi(char_num)+1<<endl;
                         outputfile.close();
                     }
                     if(sub_choice == 2){
@@ -91,22 +92,30 @@ int main( int argc, char** argv )
                     }
                     if(sub_choice == 3){
                         if(test_or_train == "train"){
-                            if (stat("feature_extracted/HoG/train/", &st) == -1) {
-                                system("mkdir -p feature_extracted/HoG/train/");
+                            if (stat("feature_extracted/expandedSVMHOG64128morefeatures/train/", &st) == -1) {
+                                system("mkdir -p feature_extracted/expandedSVMHOG64128morefeatures/train/");
                                 //mkdir("feature_extracted/binary", 0700);
                             }
-                            path = "feature_extracted/HoG/train/"+char_num+".txt";
+                            path = "feature_extracted/expandedSVMHOG64128morefeatures/train/"+char_num+".txt";
                         }
                         else{
-                            if (stat("feature_extracted/HoG/test/", &st) == -1) {
-                                system("mkdir -p feature_extracted/HoG/test/");
+                            if (stat("feature_extracted/expandedSVMHOG64128morefeatures/test/", &st) == -1) {
+                                system("mkdir -p feature_extracted/expandedSVMHOG64128morefeatures/test/");
                                 //mkdir("feature_extracted/binary", 0700);
                             }
-                            path = "feature_extracted/HoG/test/"+char_num+".txt";
+                            path = "feature_extracted/expandedSVMHOG64128morefeatures/test/"+char_num+".txt";
                         }
-                        cout<<line<<endl;
+                        //cout<<line<<endl;
                         outputfile.open(path, ios::out | ios::app);
+                        /*
+                        if(stoi(char_num)==0){
+                            outputfile<<"1 0:1 ";
+                        }
+                        else
+                            outputfile<<"-1 0:1 ";*/
+                        outputfile<<stoi(char_num)+1<<" 0:1 ";
                         HOGFeatures(line,outputfile);
+                            //outputfile<<" 1 "<<stoi(char_num)+1<<endl;
                         outputfile.close();
                     }
                 }
